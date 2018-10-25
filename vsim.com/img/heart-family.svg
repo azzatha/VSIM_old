@@ -1,0 +1,23 @@
+<?xml version="1.0"?><svg width="793.7007874015749" height="1122.5196850393702" xmlns="http://www.w3.org/2000/svg">
+ <title>Heart Family</title>
+
+ <metadata id="metadata3547">image/svg+xml</metadata>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_18">
+   <g id="layer1">
+    <path fill="#8ecc51" fill-rule="evenodd" stroke="#90ce52" stroke-width="5.799726" stroke-linejoin="round" stroke-miterlimit="4" id="path2361" d="m291.618988,294.641998c-137.446991,-2.471008 -264.638388,212.480988 105.926025,435.340973c0.405975,-0.730957 1.968994,-0.730957 2.375,0c382.517975,-230.048981 234.665009,-451.639984 92.625977,-434.390961c-55.372986,6.724976 -81.503998,37.457001 -93.813995,63.888c-12.30899,-26.431 -38.440002,-57.163025 -93.812988,-63.888c-4.438019,-0.539001 -8.865997,-0.870026 -13.300018,-0.950012z"/>
+   </g>
+   <circle id="svg_3" r="91.200928" cy="243.480351" cx="322.850408" stroke-width="5.799726" stroke="#689946" fill="#689946"/>
+   <circle id="svg_4" r="81.200928" cy="251.480349" cx="503.850406" stroke-width="5.799726" stroke="#689946" fill="#689946"/>
+  </g>
+  <g transform="rotate(-3.95686 388.028 519.136)" id="svg_33">
+   <circle id="svg_5" r="57.688782" cy="473.480347" cx="496.850403" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5.799726" stroke="#689946" fill="#689946"/>
+   <line id="svg_11" y2="622.480348" x2="390.850403" y1="524.48035" x1="517.850402" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5.799726" stroke="#689946" fill="none"/>
+   <line transform="rotate(11.6074 321.299 537.98)" id="svg_20" y2="605.480347" x2="409.299194" y1="470.480347" x1="233.299194" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5.799726" stroke="#689946" fill="none"/>
+   <path id="svg_27" d="m514.299011,523.47998c0,0 -105,81 -105,81c0,0 -62,-43 -62,-43c0,0 99,-66.999969 99,-66.999969" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5.799726" stroke="#689946" fill="#689946"/>
+   <ellipse transform="rotate(-21.5493 400.741 541.163)" id="svg_29" ry="47.14697" rx="57.999998" cy="541.162709" cx="400.740642" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5.799726" stroke="#689946" fill="#689946"/>
+   <rect transform="rotate(-39.8636 395.799 577.98)" id="svg_31" height="55" width="55" y="550.480347" x="368.299194" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5.799726" stroke="#689946" fill="#689946"/>
+  </g>
+ </g>
+</svg>
