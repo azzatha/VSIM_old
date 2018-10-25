@@ -5,8 +5,11 @@ Visualization and Simulation of Genomes for Premarital Testing
 List of tools used:
 
 VCFtools http://vcftools.sourceforge.net
+
 Bedtools https://bedtools.readthedocs.io/en/latest/
+
 RTG https://www.realtimegenomics.com/products/rtg-tools
+
 vcfanno.go https://github.com/brentp/vcfanno
 
 Programming languages:
