@@ -1,5 +1,7 @@
-FROM rappdw/docker-java-python
+FROM httpd
 
-LABEL maintainer <maxat.kulmanov@kaust.edu.sa>
+LABEL maintainer <azza.althagafi@kaust.edu.sa>
 
 USER root
+
+COPY . /usr/local/apache2/htdocs/
