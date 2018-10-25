@@ -1,0 +1,1557 @@
+{
+    "keys": [
+        "name",
+        "start",
+        "length",
+        "trackIndex",
+        "Likelihood"
+    ],
+    "annots": [
+        {
+            "chr": "1",
+            "annots": [
+                [
+                    "CV Disease: Immunodeficiency_38_with_basal_ganglia_calcification<br />CV Status: Carrier_of_Disease<br />CV Likelihood:100.0<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/616126\">More Info</a>",
+                    949523,
+                    0,
+                    2,
+                    100.0
+                ],
+                [
+                    "PharmGKB PhenotypesHit:  <br />ChemicalsAffect: cyclophosphamide<br />PhGKB Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
+                    11796321,
+                    0,
+                    1,
+                    100.0
+                ],
+                [
+                    "PharmGKB PhenotypesHit: Carcinoma, Non-Small-Cell Lung <br />ChemicalsAffect: carboplatin<br />PhGKB Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
+                    11796321,
+                    0,
+                    1,
+                    100.0
+                ],
+                [
+                    "PharmGKB PhenotypesHit: Neoplasms <br />ChemicalsAffect: methotrexate<br />PhGKB Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
+                    11796321,
+                    0,
+                    1,
+                    100.0
+                ],
+                [
+                    "PharmGKB PhenotypesHit: Precursor Cell Lymphoblastic Leukemia-Lymphoma <br />ChemicalsAffect: mercaptopurine<br />PhGKB Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
+                    11796321,
+                    0,
+                    1,
+                    100.0
+                ],
+                [
+                    "PharmGKB PhenotypesHit: Schizophrenia <br />ChemicalsAffect: antipsychotics<br />PhGKB Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
+                    11796321,
+                    0,
+                    1,
+                    100.0
+                ],
+                [
+                    "PharmGKB PhenotypesHit: Coronary Artery Disease,Myocardial Infarction <br />ChemicalsAffect: pravastatin<br />PhGKB Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
+                    11796321,
+                    0,
+                    1,
+                    100.0
+                ],
+                [
+                    "PharmGKB PhenotypesHit: Cocaine-Related Disorders <br />ChemicalsAffect: disulfiram<br />PhGKB Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
+                    11796321,
+                    0,
+                    1,
+                    100.0
+                ],
+                [
+                    "PharmGKB PhenotypesHit: Graft vs Host Disease,Leukemia,Leukemia, Myelogenous, onic, BCR-ABL Positive <br />ChemicalsAffect: methotrexate<br />PhGKB Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
+                    11796321,
+                    0,
+                    1,
+                    100.0
+                ],
+                [
+                    "PharmGKB PhenotypesHit: Hypertension <br />ChemicalsAffect: benazepril<br />PhGKB Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
+                    11796321,
+                    0,
+                    1,
+                    100.0
+                ],
+                [
+                    "PharmGKB PhenotypesHit: Colonic Neoplasms <br />ChemicalsAffect: fluorouracil,leucovorin,oxaliplatin<br />PhGKB Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
+                    11796321,
+                    0,
+                    1,
+                    100.0
+                ],
+                [
+                    "PharmGKB PhenotypesHit: Arthritis, Juvenile Rheumatoid,Arthritis, Psoriatic,Arthritis, Rheumatoid,Drug Toxicity <br />ChemicalsAffect: methotrexate<br />PhGKB Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
+                    11796321,
+                    0,
+                    1,
+                    100.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-6522101-C-G\">More Info</a>",
+                    6522101,
+                    0,
+                    0,
+                    52.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-6522101-C-G\">More Info</a>",
+                    6522101,
+                    0,
+                    0,
+                    48.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-22203106-C-T\">More Info</a>",
+                    22203106,
+                    0,
+                    0,
+                    52.0
+                ],
+                [
+                    "PharmGKB PhenotypesHit: Carcinoma, Non-Small-Cell Lung,Mesothelioma <br />ChemicalsAffect: pemetrexed<br />PhGKB Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
+                    11796321,
+                    0,
+                    1,
+                    100.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-23845566-G-A\">More Info</a>",
+                    23845566,
+                    0,
+                    0,
+                    52.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-23845566-G-A\">More Info</a>",
+                    23845566,
+                    0,
+                    0,
+                    48.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-22203106-C-T\">More Info</a>",
+                    22203106,
+                    0,
+                    0,
+                    48.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-46977886-G-C\">More Info</a>",
+                    46977886,
+                    0,
+                    0,
+                    50.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 64.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-220311332-G-A\">More Info</a>",
+                    220311332,
+                    0,
+                    0,
+                    64.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-93101869-C-T\">More Info</a>",
+                    93101869,
+                    0,
+                    0,
+                    48.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-93101869-C-T\">More Info</a>",
+                    93101869,
+                    0,
+                    0,
+                    52.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-182797925-G-A\">More Info</a>",
+                    182797925,
+                    0,
+                    0,
+                    58.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-182797925-G-A\">More Info</a>",
+                    182797925,
+                    0,
+                    0,
+                    42.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 62.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-201294183-C-T\">More Info</a>",
+                    201294183,
+                    0,
+                    0,
+                    62.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 38.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-201294183-C-T\">More Info</a>",
+                    201294183,
+                    0,
+                    0,
+                    38.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 64.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-203681172-A-G\">More Info</a>",
+                    203681172,
+                    0,
+                    0,
+                    64.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 36.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-203681172-A-G\">More Info</a>",
+                    203681172,
+                    0,
+                    0,
+                    36.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 38.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-228290663-G-C\">More Info</a>",
+                    228290663,
+                    0,
+                    0,
+                    38.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 62.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-228290663-G-C\">More Info</a>",
+                    228290663,
+                    0,
+                    0,
+                    62.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-230928193-G-A\">More Info</a>",
+                    230928193,
+                    0,
+                    0,
+                    40.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-230928193-G-A\">More Info</a>",
+                    230928193,
+                    0,
+                    0,
+                    60.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-233511776-C-T\">More Info</a>",
+                    233511776,
+                    0,
+                    0,
+                    40.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-233511776-C-T\">More Info</a>",
+                    233511776,
+                    0,
+                    0,
+                    60.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-46977886-G-C\">More Info</a>",
+                    46977886,
+                    0,
+                    0,
+                    50.0
+                ]
+            ]
+        },
+        {
+            "chr": "2",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/2-239180006-T-C\">More Info</a>",
+                    239180006,
+                    0,
+                    0,
+                    48.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/2-176945176-C-G\">More Info</a>",
+                    176945176,
+                    0,
+                    0,
+                    56.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/2-239180006-T-C\">More Info</a>",
+                    239180006,
+                    0,
+                    0,
+                    52.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/2-227924322-C-T\">More Info</a>",
+                    227924322,
+                    0,
+                    0,
+                    56.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/2-227924322-C-T\">More Info</a>",
+                    227924322,
+                    0,
+                    0,
+                    44.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/2-176945176-C-G\">More Info</a>",
+                    176945176,
+                    0,
+                    0,
+                    44.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/2-97482646-T-G\">More Info</a>",
+                    97482646,
+                    0,
+                    0,
+                    46.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/2-27324354-C-T\">More Info</a>",
+                    27324354,
+                    0,
+                    0,
+                    50.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/2-88409984-G-A\">More Info</a>",
+                    88409984,
+                    0,
+                    0,
+                    56.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/2-88409984-G-A\">More Info</a>",
+                    88409984,
+                    0,
+                    0,
+                    44.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/2-46603764-T-A\">More Info</a>",
+                    46603764,
+                    0,
+                    0,
+                    48.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/2-27324354-C-T\">More Info</a>",
+                    27324354,
+                    0,
+                    0,
+                    50.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/2-97482646-T-G\">More Info</a>",
+                    97482646,
+                    0,
+                    0,
+                    54.0
+                ]
+            ]
+        },
+        {
+            "chr": "3",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 64.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/3-142402975-T-C\">More Info</a>",
+                    142402975,
+                    0,
+                    0,
+                    64.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 66.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/3-129221570-C-T\">More Info</a>",
+                    129221570,
+                    0,
+                    0,
+                    66.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 68.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/3-111794246-T-G\">More Info</a>",
+                    111794246,
+                    0,
+                    0,
+                    68.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/3-19479731-G-A\">More Info</a>",
+                    19479731,
+                    0,
+                    0,
+                    44.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/3-19479731-G-A\">More Info</a>",
+                    19479731,
+                    0,
+                    0,
+                    56.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/3-27763427-G-C\">More Info</a>",
+                    27763427,
+                    0,
+                    0,
+                    56.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/3-27763427-G-C\">More Info</a>",
+                    27763427,
+                    0,
+                    0,
+                    44.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/3-33038800-A-G\">More Info</a>",
+                    33038800,
+                    0,
+                    0,
+                    46.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 36.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/3-142402975-T-C\">More Info</a>",
+                    142402975,
+                    0,
+                    0,
+                    36.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 32.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/3-111794246-T-G\">More Info</a>",
+                    111794246,
+                    0,
+                    0,
+                    32.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 66.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/3-151012501-A-T\">More Info</a>",
+                    151012501,
+                    0,
+                    0,
+                    66.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 34.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/3-151012501-A-T\">More Info</a>",
+                    151012501,
+                    0,
+                    0,
+                    34.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/3-194117585-C-G\">More Info</a>",
+                    194117585,
+                    0,
+                    0,
+                    46.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/3-194117585-C-G\">More Info</a>",
+                    194117585,
+                    0,
+                    0,
+                    54.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 34.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/3-129221570-C-T\">More Info</a>",
+                    129221570,
+                    0,
+                    0,
+                    34.0
+                ]
+            ]
+        },
+        {
+            "chr": "4",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/4-47537548-G-A\">More Info</a>",
+                    47537548,
+                    0,
+                    0,
+                    42.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/4-983753-G-A\">More Info</a>",
+                    983753,
+                    0,
+                    0,
+                    50.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/4-983753-G-A\">More Info</a>",
+                    983753,
+                    0,
+                    0,
+                    50.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/4-3475187-G-A\">More Info</a>",
+                    3475187,
+                    0,
+                    0,
+                    50.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/4-3475187-G-A\">More Info</a>",
+                    3475187,
+                    0,
+                    0,
+                    50.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/4-41633172-G-A\">More Info</a>",
+                    41633172,
+                    0,
+                    0,
+                    42.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/4-79831847-C-T\">More Info</a>",
+                    79831847,
+                    0,
+                    0,
+                    44.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/4-79831847-C-T\">More Info</a>",
+                    79831847,
+                    0,
+                    0,
+                    56.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 66.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/4-108552883-G-A\">More Info</a>",
+                    108552883,
+                    0,
+                    0,
+                    66.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 34.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/4-108552883-G-A\">More Info</a>",
+                    108552883,
+                    0,
+                    0,
+                    34.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/4-175231175-C-G\">More Info</a>",
+                    175231175,
+                    0,
+                    0,
+                    54.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/4-47537548-G-A\">More Info</a>",
+                    47537548,
+                    0,
+                    0,
+                    58.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/4-41633172-G-A\">More Info</a>",
+                    41633172,
+                    0,
+                    0,
+                    58.0
+                ]
+            ]
+        },
+        {
+            "chr": "5",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/5-76332439-A-C\">More Info</a>",
+                    76332439,
+                    0,
+                    0,
+                    42.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/5-174156386-G-C\">More Info</a>",
+                    174156386,
+                    0,
+                    0,
+                    48.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/5-76332439-A-C\">More Info</a>",
+                    76332439,
+                    0,
+                    0,
+                    58.0
+                ]
+            ]
+        },
+        {
+            "chr": "6",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/6-152469204-G-A\">More Info</a>",
+                    152469204,
+                    0,
+                    0,
+                    54.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/6-109175625-A-C\">More Info</a>",
+                    109175625,
+                    0,
+                    0,
+                    44.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/6-44922299-A-G\">More Info</a>",
+                    44922299,
+                    0,
+                    0,
+                    52.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/6-152469204-G-A\">More Info</a>",
+                    152469204,
+                    0,
+                    0,
+                    46.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/6-44922299-A-G\">More Info</a>",
+                    44922299,
+                    0,
+                    0,
+                    48.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/6-109175625-A-C\">More Info</a>",
+                    109175625,
+                    0,
+                    0,
+                    56.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/6-80721480-T-C\">More Info</a>",
+                    80721480,
+                    0,
+                    0,
+                    44.0
+                ]
+            ]
+        },
+        {
+            "chr": "7",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/7-107820819-T-C\">More Info</a>",
+                    107820819,
+                    0,
+                    0,
+                    42.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/7-27135338-T-G\">More Info</a>",
+                    27135338,
+                    0,
+                    0,
+                    50.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/7-30951672-G-A\">More Info</a>",
+                    30951672,
+                    0,
+                    0,
+                    48.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/7-27135338-T-G\">More Info</a>",
+                    27135338,
+                    0,
+                    0,
+                    50.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/7-107820819-T-C\">More Info</a>",
+                    107820819,
+                    0,
+                    0,
+                    58.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/7-129095163-C-T\">More Info</a>",
+                    129095163,
+                    0,
+                    0,
+                    48.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/7-155251100-G-C\">More Info</a>",
+                    155251100,
+                    0,
+                    0,
+                    50.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/7-155251100-G-C\">More Info</a>",
+                    155251100,
+                    0,
+                    0,
+                    50.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/7-129095163-C-T\">More Info</a>",
+                    129095163,
+                    0,
+                    0,
+                    52.0
+                ]
+            ]
+        },
+        {
+            "chr": "8",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/8-144801230-T-A\">More Info</a>",
+                    144801230,
+                    0,
+                    0,
+                    42.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/8-57905903-A-C\">More Info</a>",
+                    57905903,
+                    0,
+                    0,
+                    44.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/8-57905903-A-C\">More Info</a>",
+                    57905903,
+                    0,
+                    0,
+                    56.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/8-124335225-A-G\">More Info</a>",
+                    124335225,
+                    0,
+                    0,
+                    46.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/8-124335225-A-G\">More Info</a>",
+                    124335225,
+                    0,
+                    0,
+                    54.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/8-139606280-G-A\">More Info</a>",
+                    139606280,
+                    0,
+                    0,
+                    60.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/8-139606280-G-A\">More Info</a>",
+                    139606280,
+                    0,
+                    0,
+                    40.0
+                ]
+            ]
+        },
+        {
+            "chr": "9",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/9-79318384-C-A\">More Info</a>",
+                    17651679,
+                    0,
+                    0,
+                    50.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 38.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/9-139911697-C-T\">More Info</a>",
+                    35303358,
+                    0,
+                    0,
+                    38.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 62.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/9-139911697-C-T\">More Info</a>",
+                    52955037,
+                    0,
+                    0,
+                    62.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/9-86474241-G-T\">More Info</a>",
+                    70606716,
+                    0,
+                    0,
+                    56.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/9-27359226-A-G\">More Info</a>",
+                    88258395,
+                    0,
+                    0,
+                    42.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/9-79318384-C-A\">More Info</a>",
+                    105910074,
+                    0,
+                    0,
+                    50.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/9-27359226-A-G\">More Info</a>",
+                    123561753,
+                    0,
+                    0,
+                    58.0
+                ]
+            ]
+        },
+        {
+            "chr": "10",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/10-12139706-C-A\">More Info</a>",
+                    12139706,
+                    0,
+                    0,
+                    50.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/10-69881361-G-C\">More Info</a>",
+                    69881361,
+                    0,
+                    0,
+                    46.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/10-12139706-C-A\">More Info</a>",
+                    12139706,
+                    0,
+                    0,
+                    50.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/10-35322199-C-T\">More Info</a>",
+                    35322199,
+                    0,
+                    0,
+                    46.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/10-69881361-G-C\">More Info</a>",
+                    69881361,
+                    0,
+                    0,
+                    54.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/10-70115127-C-T\">More Info</a>",
+                    70115127,
+                    0,
+                    0,
+                    54.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/10-70115127-C-T\">More Info</a>",
+                    70115127,
+                    0,
+                    0,
+                    46.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/10-115662243-T-C\">More Info</a>",
+                    115662243,
+                    0,
+                    0,
+                    54.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/10-115662243-T-C\">More Info</a>",
+                    115662243,
+                    0,
+                    0,
+                    46.0
+                ]
+            ]
+        },
+        {
+            "chr": "11",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/11-118851321-C-G\">More Info</a>",
+                    118851321,
+                    0,
+                    0,
+                    42.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/11-35456085-T-A\">More Info</a>",
+                    35456085,
+                    0,
+                    0,
+                    52.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/11-35456085-T-A\">More Info</a>",
+                    35456085,
+                    0,
+                    0,
+                    48.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/11-30953348-C-A\">More Info</a>",
+                    30953348,
+                    0,
+                    0,
+                    50.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/11-5878609-G-C\">More Info</a>",
+                    5878609,
+                    0,
+                    0,
+                    42.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/11-2946317-C-T\">More Info</a>",
+                    2946317,
+                    0,
+                    0,
+                    58.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/11-4154851-T-C\">More Info</a>",
+                    4154851,
+                    0,
+                    0,
+                    58.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/11-2946317-C-T\">More Info</a>",
+                    2946317,
+                    0,
+                    0,
+                    42.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/11-1907972-G-A\">More Info</a>",
+                    1907972,
+                    0,
+                    0,
+                    58.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/11-1907972-G-A\">More Info</a>",
+                    1907972,
+                    0,
+                    0,
+                    42.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/11-5878609-G-C\">More Info</a>",
+                    5878609,
+                    0,
+                    0,
+                    58.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/11-118851321-C-G\">More Info</a>",
+                    118851321,
+                    0,
+                    0,
+                    58.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/11-4154851-T-C\">More Info</a>",
+                    4154851,
+                    0,
+                    0,
+                    42.0
+                ]
+            ]
+        },
+        {
+            "chr": "12",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/12-132281826-G-A\">More Info</a>",
+                    132281826,
+                    0,
+                    0,
+                    54.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/12-132281826-G-A\">More Info</a>",
+                    132281826,
+                    0,
+                    0,
+                    46.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/12-82748339-T-G\">More Info</a>",
+                    82748339,
+                    0,
+                    0,
+                    54.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/12-53589976-A-G\">More Info</a>",
+                    53589976,
+                    0,
+                    0,
+                    44.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/12-38714185-G-A\">More Info</a>",
+                    38714185,
+                    0,
+                    0,
+                    56.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/12-52863198-C-T\">More Info</a>",
+                    52863198,
+                    0,
+                    0,
+                    44.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/12-52863198-C-T\">More Info</a>",
+                    52863198,
+                    0,
+                    0,
+                    56.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/12-38714185-G-A\">More Info</a>",
+                    38714185,
+                    0,
+                    0,
+                    44.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/12-53589976-A-G\">More Info</a>",
+                    53589976,
+                    0,
+                    0,
+                    56.0
+                ]
+            ]
+        },
+        {
+            "chr": "13",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/13-99083369-C-T\">More Info</a>",
+                    99083369,
+                    0,
+                    0,
+                    56.0
+                ]
+            ]
+        },
+        {
+            "chr": "14",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/14-58955455-C-T\">More Info</a>",
+                    58955455,
+                    0,
+                    0,
+                    48.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/14-55618479-G-A\">More Info</a>",
+                    55618479,
+                    0,
+                    0,
+                    50.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/14-25044567-G-A\">More Info</a>",
+                    25044567,
+                    0,
+                    0,
+                    56.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/14-36190977-G-A\">More Info</a>",
+                    36190977,
+                    0,
+                    0,
+                    60.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/14-36190977-G-A\">More Info</a>",
+                    36190977,
+                    0,
+                    0,
+                    40.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/14-55618479-G-A\">More Info</a>",
+                    55618479,
+                    0,
+                    0,
+                    50.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/14-25044567-G-A\">More Info</a>",
+                    25044567,
+                    0,
+                    0,
+                    44.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/14-88658675-G-A\">More Info</a>",
+                    88658675,
+                    0,
+                    0,
+                    56.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/14-88658675-G-A\">More Info</a>",
+                    88658675,
+                    0,
+                    0,
+                    44.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/14-93022233-C-T\">More Info</a>",
+                    93022233,
+                    0,
+                    0,
+                    50.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/14-93022233-C-T\">More Info</a>",
+                    93022233,
+                    0,
+                    0,
+                    50.0
+                ]
+            ]
+        },
+        {
+            "chr": "15",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/15-49081051-C-G\">More Info</a>",
+                    49081051,
+                    0,
+                    0,
+                    42.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/15-75650903-C-T\">More Info</a>",
+                    75650903,
+                    0,
+                    0,
+                    60.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 66.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/15-68119590-T-G\">More Info</a>",
+                    68119590,
+                    0,
+                    0,
+                    66.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/15-54306012-C-G\">More Info</a>",
+                    54306012,
+                    0,
+                    0,
+                    42.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 62.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/15-64473613-C-T\">More Info</a>",
+                    64473613,
+                    0,
+                    0,
+                    62.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/15-54306012-C-G\">More Info</a>",
+                    54306012,
+                    0,
+                    0,
+                    58.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/15-49081051-C-G\">More Info</a>",
+                    49081051,
+                    0,
+                    0,
+                    58.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 38.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/15-64473613-C-T\">More Info</a>",
+                    64473613,
+                    0,
+                    0,
+                    38.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/15-75195037-G-C\">More Info</a>",
+                    75195037,
+                    0,
+                    0,
+                    40.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/15-75195037-G-C\">More Info</a>",
+                    75195037,
+                    0,
+                    0,
+                    60.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/15-75650903-C-T\">More Info</a>",
+                    75650903,
+                    0,
+                    0,
+                    40.0
+                ]
+            ]
+        },
+        {
+            "chr": "16",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/16-88893122-C-T\">More Info</a>",
+                    88893122,
+                    0,
+                    0,
+                    40.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/16-84900645-G-A\">More Info</a>",
+                    84900645,
+                    0,
+                    0,
+                    60.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/16-84900645-G-A\">More Info</a>",
+                    84900645,
+                    0,
+                    0,
+                    40.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/16-67470842-C-T\">More Info</a>",
+                    67470842,
+                    0,
+                    0,
+                    46.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/16-4310517-T-G\">More Info</a>",
+                    4310517,
+                    0,
+                    0,
+                    40.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/16-67470842-C-T\">More Info</a>",
+                    67470842,
+                    0,
+                    0,
+                    54.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/16-88893122-C-T\">More Info</a>",
+                    88893122,
+                    0,
+                    0,
+                    60.0
+                ]
+            ]
+        },
+        {
+            "chr": "17",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 38.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/17-40820219-A-G\">More Info</a>",
+                    40820219,
+                    0,
+                    0,
+                    38.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/17-80195562-G-A\">More Info</a>",
+                    80195562,
+                    0,
+                    0,
+                    48.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/17-48050557-G-C\">More Info</a>",
+                    48050557,
+                    0,
+                    0,
+                    40.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/17-11687683-A-C\">More Info</a>",
+                    11687683,
+                    0,
+                    0,
+                    48.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/17-11687683-A-C\">More Info</a>",
+                    11687683,
+                    0,
+                    0,
+                    52.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/17-27064867-T-C\">More Info</a>",
+                    27064867,
+                    0,
+                    0,
+                    52.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/17-36666856-G-A\">More Info</a>",
+                    36666856,
+                    0,
+                    0,
+                    56.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/17-27064867-T-C\">More Info</a>",
+                    27064867,
+                    0,
+                    0,
+                    48.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/17-80195562-G-A\">More Info</a>",
+                    80195562,
+                    0,
+                    0,
+                    52.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 62.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/17-40820219-A-G\">More Info</a>",
+                    40820219,
+                    0,
+                    0,
+                    62.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/17-48050557-G-C\">More Info</a>",
+                    48050557,
+                    0,
+                    0,
+                    60.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/17-48625801-A-G\">More Info</a>",
+                    48625801,
+                    0,
+                    0,
+                    58.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/17-36666856-G-A\">More Info</a>",
+                    36666856,
+                    0,
+                    0,
+                    44.0
+                ]
+            ]
+        },
+        {
+            "chr": "18",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/18-47310224-G-A\">More Info</a>",
+                    47310224,
+                    0,
+                    0,
+                    54.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/18-47310224-G-A\">More Info</a>",
+                    47310224,
+                    0,
+                    0,
+                    46.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/18-44774555-C-G\">More Info</a>",
+                    44774555,
+                    0,
+                    0,
+                    60.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/18-44774555-C-G\">More Info</a>",
+                    44774555,
+                    0,
+                    0,
+                    40.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/18-3456486-C-T\">More Info</a>",
+                    3456486,
+                    0,
+                    0,
+                    60.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 38.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/18-11689669-C-T\">More Info</a>",
+                    11689669,
+                    0,
+                    0,
+                    38.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/18-3456486-C-T\">More Info</a>",
+                    3456486,
+                    0,
+                    0,
+                    40.0
+                ]
+            ]
+        },
+        {
+            "chr": "19",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/19-1556410-C-G\">More Info</a>",
+                    1556410,
+                    0,
+                    0,
+                    56.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/19-4054425-T-G\">More Info</a>",
+                    4054425,
+                    0,
+                    0,
+                    56.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/19-4054425-T-G\">More Info</a>",
+                    4054425,
+                    0,
+                    0,
+                    44.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/19-42746613-C-T\">More Info</a>",
+                    42746613,
+                    0,
+                    0,
+                    40.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/19-42746613-C-T\">More Info</a>",
+                    42746613,
+                    0,
+                    0,
+                    60.0
+                ]
+            ]
+        },
+        {
+            "chr": "20",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/20-60885119-C-A\">More Info</a>",
+                    60885119,
+                    0,
+                    0,
+                    58.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/20-60885119-C-A\">More Info</a>",
+                    60885119,
+                    0,
+                    0,
+                    42.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/20-43093852-G-T\">More Info</a>",
+                    43093852,
+                    0,
+                    0,
+                    40.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/20-43093852-G-T\">More Info</a>",
+                    43093852,
+                    0,
+                    0,
+                    60.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/20-21335447-G-A\">More Info</a>",
+                    21335447,
+                    0,
+                    0,
+                    50.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/20-3007800-G-A\">More Info</a>",
+                    3007800,
+                    0,
+                    0,
+                    42.0
+                ],
+                [
+                    "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/20-3007800-G-A\">More Info</a>",
+                    3007800,
+                    0,
+                    0,
+                    58.0
+                ]
+            ]
+        },
+        {
+            "chr": "21",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/21-36041820-G-C\">More Info</a>",
+                    36041820,
+                    0,
+                    0,
+                    54.0
+                ]
+            ]
+        },
+        {
+            "chr": "22",
+            "annots": []
+        },
+        {
+            "chr": "X",
+            "annots": []
+        },
+        {
+            "chr": "Y",
+            "annots": []
+        }
+    ]
+}
+

@@ -1,0 +1,107 @@
+{
+    "keys": [
+        "name", 
+        "start", 
+        "length", 
+        "trackIndex", 
+        "Likelihood"
+    ], 
+    "annots": [
+        {
+            "chr": "1", 
+            "annots": []
+        }, 
+        {
+            "chr": "2", 
+            "annots": []
+        }, 
+        {
+            "chr": "3", 
+            "annots": []
+        }, 
+        {
+            "chr": "4", 
+            "annots": []
+        }, 
+        {
+            "chr": "5", 
+            "annots": []
+        }, 
+        {
+            "chr": "6", 
+            "annots": []
+        }, 
+        {
+            "chr": "7", 
+            "annots": []
+        }, 
+        {
+            "chr": "8", 
+            "annots": []
+        }, 
+        {
+            "chr": "9", 
+            "annots": []
+        }, 
+        {
+            "chr": "10", 
+            "annots": []
+        }, 
+        {
+            "chr": "11", 
+            "annots": []
+        }, 
+        {
+            "chr": "12", 
+            "annots": []
+        }, 
+        {
+            "chr": "13", 
+            "annots": []
+        }, 
+        {
+            "chr": "14", 
+            "annots": []
+        }, 
+        {
+            "chr": "15", 
+            "annots": []
+        }, 
+        {
+            "chr": "16", 
+            "annots": []
+        }, 
+        {
+            "chr": "17", 
+            "annots": []
+        }, 
+        {
+            "chr": "18", 
+            "annots": []
+        }, 
+        {
+            "chr": "19", 
+            "annots": []
+        }, 
+        {
+            "chr": "20", 
+            "annots": []
+        }, 
+        {
+            "chr": "21", 
+            "annots": []
+        }, 
+        {
+            "chr": "22", 
+            "annots": []
+        }, 
+        {
+            "chr": "X", 
+            "annots": []
+        }, 
+        {
+            "chr": "Y", 
+            "annots": []
+        }
+    ]
+}

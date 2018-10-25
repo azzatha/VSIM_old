@@ -1,0 +1,866 @@
+{
+    "keys": [
+        "name",
+        "start",
+        "length",
+        "trackIndex"
+    ],
+    "annots": [
+        {
+            "chr": "1",
+            "annots": [
+                [
+                    "CV Disease: Dihydropyrimidine_dehydrogenase_deficiency<br />CV Status: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/274270\">More Info</a>",
+                    98348885,
+                    0,
+                    2
+                ],
+                [
+                    "CV Disease: Nephrotic_syndrome,_idiopathic,_steroid-resistant<br />CV Status: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/600995\">More Info</a>",
+                    179544898,
+                    0,
+                    2
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-182797925-G-A\">More Info</a>",
+                    182797925,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-93101869-C-T\">More Info</a>",
+                    93101869,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-233511776-C-T\">More Info</a>",
+                    233511776,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-230928193-G-A\">More Info</a>",
+                    230928193,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-228290663-G-C\">More Info</a>",
+                    228290663,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-220311332-G-A\">More Info</a>",
+                    220311332,
+                    0,
+                    0
+                ],
+                [
+                    "CV Disease: Basal_laminar_drusen|Age-related_macular_degeneration_4<br />CV Status: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/126700\">More Info</a>",
+                    196659237,
+                    0,
+                    2
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-201294183-C-T\">More Info</a>",
+                    201294183,
+                    0,
+                    0
+                ],
+                [
+                    "Dida DiseaseHit: Familial_exudative_vitreoretinopathy<br />Combination: 1<br />\n<a target=\"_blank\" href=\"http://dida.ibsquare.be/detail/?dc=dd049\">More Info</a>",
+                    169519049,
+                    0,
+                    4
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-6522101-C-G\">More Info</a>",
+                    6522101,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-22203106-C-T\">More Info</a>",
+                    22203106,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-23845566-G-A\">More Info</a>",
+                    23845566,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/1-46977886-G-C\">More Info</a>",
+                    46977886,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "2",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/2-46603764-T-A\">More Info</a>",
+                    46603764,
+                    0,
+                    0
+                ],
+                [
+                    "CV Disease: Fetal_hemoglobin_quantitative_trait_locus_5<br />CV Status: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/142335\">More Info</a>",
+                    60720246,
+                    0,
+                    2
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/2-88409984-G-A\">More Info</a>",
+                    88409984,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/2-97482646-T-G\">More Info</a>",
+                    97482646,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/2-176945176-C-G\">More Info</a>",
+                    176945176,
+                    0,
+                    0
+                ],
+                [
+                    "CV Disease: Cataract_39,_multiple_types<br />CV Status: Have_the_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/615188\">More Info</a>",
+                    209010777,
+                    0,
+                    2
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/2-239180006-T-C\">More Info</a>",
+                    239180006,
+                    0,
+                    0
+                ],
+                [
+                    "CV Disease: Lucey-Driscoll_syndrome<br />CV Status: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/237900\">More Info</a>",
+                    234667582,
+                    0,
+                    2
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/2-27324354-C-T\">More Info</a>",
+                    27324354,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "3",
+            "annots": [
+                [
+                    "CV Disease: Distal_myopathy,_Tateyama_type<br />CV Status: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/614321\">More Info</a>",
+                    8775661,
+                    0,
+                    2
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/3-19479731-G-A\">More Info</a>",
+                    19479731,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/3-27763427-G-C\">More Info</a>",
+                    27763427,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/3-33038800-A-G\">More Info</a>",
+                    33038800,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/3-111794246-T-G\">More Info</a>",
+                    111794246,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/3-129221570-C-T\">More Info</a>",
+                    129221570,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/3-142402975-T-C\">More Info</a>",
+                    142402975,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/3-151012501-A-T\">More Info</a>",
+                    151012501,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "4",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/4-108552883-G-A\">More Info</a>",
+                    108552883,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/4-983753-G-A\">More Info</a>",
+                    983753,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/4-41633172-G-A\">More Info</a>",
+                    41633172,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/4-175231175-C-G\">More Info</a>",
+                    175231175,
+                    0,
+                    0
+                ],
+                [
+                    "CV Disease: Prekallikrein_deficiency<br />CV Status: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/612423\">More Info</a>",
+                    187158034,
+                    0,
+                    2
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/4-47537548-G-A\">More Info</a>",
+                    47537548,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/4-79831847-C-T\">More Info</a>",
+                    79831847,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "5",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/5-174156386-G-C\">More Info</a>",
+                    174156386,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/5-76332439-A-C\">More Info</a>",
+                    76332439,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "6",
+            "annots": [
+                [
+                    "CV Disease: Estrogen_resistance<br />CV Status: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/615363\">More Info</a>",
+                    151948366,
+                    0,
+                    2
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/6-152469204-G-A\">More Info</a>",
+                    152469204,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/6-109175625-A-C\">More Info</a>",
+                    109175625,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/6-80721480-T-C\">More Info</a>",
+                    80721480,
+                    0,
+                    0
+                ],
+                [
+                    "CV Disease: Estrogen_resistance<br />CV Status: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/615363\">More Info</a>",
+                    151936677,
+                    0,
+                    2
+                ],
+                [
+                    "CV Disease: Factor_XIII_subunit_A_deficiency<br />CV Status: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/613225\">More Info</a>",
+                    6320808,
+                    0,
+                    2
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/6-44922299-A-G\">More Info</a>",
+                    44922299,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "7",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/7-30951672-G-A\">More Info</a>",
+                    30951672,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/7-27135338-T-G\">More Info</a>",
+                    27135338,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/7-129095163-C-T\">More Info</a>",
+                    129095163,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/7-155251100-G-C\">More Info</a>",
+                    155251100,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "8",
+            "annots": [
+                [
+                    "CV Disease: Achromatopsia_3<br />CV Status: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/262300\">More Info</a>",
+                    87679303,
+                    0,
+                    2
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/8-144801230-T-A\">More Info</a>",
+                    144801230,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/8-57905903-A-C\">More Info</a>",
+                    57905903,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/8-124335225-A-G\">More Info</a>",
+                    124335225,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "9",
+            "annots": [
+                [
+                    "CV Disease: Metaphyseal_chondrodysplasia,_McKusick_type<br />CV Status: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/250250\">More Info</a>",
+                    35658020,
+                    0,
+                    2
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/9-79318384-C-A\">More Info</a>",
+                    79318384,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/9-27359226-A-G\">More Info</a>",
+                    27359226,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/9-139911697-C-T\">More Info</a>",
+                    139911697,
+                    0,
+                    0
+                ],
+                [
+                    "PharmGKB PhenotypesHit: Hypertension_<br />Chemicals Affect: atenolol<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=Hypertension_\">More Info</a>",
+                    11028275,
+                    0,
+                    1
+                ],
+                [
+                    "PharmGKB PhenotypesHit: Hypertension_<br />Chemicals Affect: hydrochlorothiazide<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=Hypertension_\">More Info</a>",
+                    11018077,
+                    0,
+                    1
+                ],
+                [
+                    "PharmGKB PhenotypesHit: Hypertension_<br />Chemicals Affect: atenolol<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=Hypertension_\">More Info</a>",
+                    8176226,
+                    0,
+                    1
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/9-86474241-G-T\">More Info</a>",
+                    86474241,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "10",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/10-115662243-T-C\">More Info</a>",
+                    115662243,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/10-69881361-G-C\">More Info</a>",
+                    69881361,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/10-70115127-C-T\">More Info</a>",
+                    70115127,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/10-12139706-C-A\">More Info</a>",
+                    12139706,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "11",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/11-30953348-C-A\">More Info</a>",
+                    30953348,
+                    0,
+                    0
+                ],
+                [
+                    "Dida DiseaseHit: Autosomal_recessive_early-onset_inflammatory_bowel_disease<br />Combination: 1<br />\n<a target=\"_blank\" href=\"http://dida.ibsquare.be/detail/?dc=dd122\">More Info</a>",
+                    117869670,
+                    0,
+                    4
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/11-35456085-T-A\">More Info</a>",
+                    35456085,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/11-1907972-G-A\">More Info</a>",
+                    1907972,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/11-5878609-G-C\">More Info</a>",
+                    5878609,
+                    0,
+                    0
+                ],
+                [
+                    "CV Disease: Usher_syndrome,_type_1|Deafness,_autosomal_recessive_2<br />CV Status: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/276900\">More Info</a>",
+                    76853783,
+                    0,
+                    2
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/11-118851321-C-G\">More Info</a>",
+                    118851321,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/11-4154851-T-C\">More Info</a>",
+                    4154851,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "12",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/12-53589976-A-G\">More Info</a>",
+                    53589976,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/12-52863198-C-T\">More Info</a>",
+                    52863198,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/12-82748339-T-G\">More Info</a>",
+                    82748339,
+                    0,
+                    0
+                ],
+                [
+                    "CV Disease: Myopathy,_lactic_acidosis,_and_sideroblastic_anemia_2<br />CV Status: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/613561\">More Info</a>",
+                    32908237,
+                    0,
+                    2
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/12-132281826-G-A\">More Info</a>",
+                    132281826,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/12-38714185-G-A\">More Info</a>",
+                    38714185,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "13",
+            "annots": [
+                [
+                    "CV Disease: Xeroderma_pigmentosum,_group_G<br />CV Status: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/278780\">More Info</a>",
+                    103527930,
+                    0,
+                    2
+                ]
+            ]
+        },
+        {
+            "chr": "14",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/14-58955455-C-T\">More Info</a>",
+                    58955455,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/14-25044567-G-A\">More Info</a>",
+                    25044567,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/14-88658675-G-A\">More Info</a>",
+                    88658675,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/14-55618479-G-A\">More Info</a>",
+                    55618479,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/14-36190977-G-A\">More Info</a>",
+                    36190977,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "15",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/15-68119590-T-G\">More Info</a>",
+                    68119590,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/15-75650903-C-T\">More Info</a>",
+                    75650903,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/15-75195037-G-C\">More Info</a>",
+                    75195037,
+                    0,
+                    0
+                ],
+                [
+                    "PharmGKB PhenotypesHit: Breast_Neoplasms_<br />Chemicals Affect: exemestane<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=Breast_Neoplasms_\">More Info</a>",
+                    51202040,
+                    0,
+                    1
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/15-64473613-C-T\">More Info</a>",
+                    64473613,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/15-54306012-C-G\">More Info</a>",
+                    54306012,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "16",
+            "annots": [
+                [
+                    "CV Disease: Pseudoxanthoma_elasticum<br />CV Status: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">More Info</a>",
+                    16243973,
+                    0,
+                    2
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/16-84900645-G-A\">More Info</a>",
+                    84900645,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/16-67470842-C-T\">More Info</a>",
+                    67470842,
+                    0,
+                    0
+                ],
+                [
+                    "CV Disease: Pseudoxanthoma_elasticum<br />CV Status: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">More Info</a>",
+                    16291858,
+                    0,
+                    2
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/16-4310517-T-G\">More Info</a>",
+                    4310517,
+                    0,
+                    0
+                ],
+                [
+                    "Dida DiseaseHit: Bardet-Biedl_syndrome<br />Combination: 1<br />\n<a target=\"_blank\" href=\"http://dida.ibsquare.be/detail/?dc=dd071\">More Info</a>",
+                    56548501,
+                    0,
+                    4
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/16-88893122-C-T\">More Info</a>",
+                    88893122,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "17",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/17-11687683-A-C\">More Info</a>",
+                    11687683,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/17-27064867-T-C\">More Info</a>",
+                    27064867,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/17-36666856-G-A\">More Info</a>",
+                    36666856,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/17-40820219-A-G\">More Info</a>",
+                    40820219,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/17-80195562-G-A\">More Info</a>",
+                    80195562,
+                    0,
+                    0
+                ],
+                [
+                    "CV Disease: Breast-ovarian_cancer,_familial_1<br />CV Status: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">More Info</a>",
+                    41245471,
+                    0,
+                    2
+                ],
+                [
+                    "CV Disease: Hereditary_breast_and_ovarian_cancer_syndrome|Breast-ovarian_cancer,_familial_1<br />CV Status: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">More Info</a>",
+                    41245237,
+                    0,
+                    2
+                ],
+                [
+                    "CV Disease: Hereditary_breast_and_ovarian_cancer_syndrome|Breast-ovarian_cancer,_familial_1<br />CV Status: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">More Info</a>",
+                    41244936,
+                    0,
+                    2
+                ],
+                [
+                    "CV Disease: Breast-ovarian_cancer,_familial_1<br />CV Status: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">More Info</a>",
+                    41223094,
+                    0,
+                    2
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/17-48050557-G-C\">More Info</a>",
+                    48050557,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "18",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/18-3456486-C-T\">More Info</a>",
+                    3456486,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/18-47310224-G-A\">More Info</a>",
+                    47310224,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/18-44774555-C-G\">More Info</a>",
+                    44774555,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "19",
+            "annots": [
+                [
+                    "CV Disease: Familial_hypercholesterolemia<br />CV Status: Have_the_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/143890\">More Info</a>",
+                    11227602,
+                    0,
+                    2
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/19-1556410-C-G\">More Info</a>",
+                    1556410,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/19-42746613-C-T\">More Info</a>",
+                    42746613,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "20",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/20-43093852-G-T\">More Info</a>",
+                    43093852,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/20-60885119-C-A\">More Info</a>",
+                    60885119,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/20-21335447-G-A\">More Info</a>",
+                    21335447,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "21",
+            "annots": []
+        },
+        {
+            "chr": "22",
+            "annots": []
+        },
+        {
+            "chr": "X",
+            "annots": [
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/X-49346319-T-C\">More Info</a>",
+                    49346319,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/X-67937370-G-A\">More Info</a>",
+                    67937370,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"http://exac.broadinstitute.org/variant/X-1409247-G-A\">More Info</a>",
+                    1409247,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "Y",
+            "annots": []
+        }
+    ]
+}
+
