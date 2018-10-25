@@ -1,0 +1,166 @@
+
+
+/*Responsive part*/
+
+@media (min-width: 992px) and (max-width: 1099px) {
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6{
+	font-size:2.1rem;
+}
+
+p{
+	font-size:98%;
+}
+
+a{font-size:99%;}
+button[type="submit"] {
+    right: 3%;
+}
+
+
+}
+
+@media (min-width: 769px) and (max-width: 991px){
+
+	 h2{   
+		 font-size: 2rem;
+		 line-height: 3rem;
+		 margin-bottom: .9rem;
+	}
+
+	h1, .h1{
+		font-size:32px;
+	} 
+
+	.navbar-default .navbar-nav>li>a {
+		font-size: 14px;
+	}
+
+	
+	.single_plans li{font-size:12px;}
+
+	.navbar-form .form-control {
+		width: 100%;
+	}
+	button[type="submit"] {
+		right: 8%;
+		top: 62%;
+		padding: 5px;
+	}
+
+}
+
+
+
+
+@media (max-width: 768px) {
+h2{   
+	font-size: 1.8rem;
+}
+.container-fluid {
+    border-bottom: 0px solid #ddd;
+    padding-bottom:0px;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    background-color: rgba(131, 167, 165, 0.71);
+}
+.navbar-collapse {
+    border-top: 0px solid transparent;
+}	
+.navbar-default .navbar-nav>li>a {
+    font-size: 14px;
+}
+.single_features{
+    max-width: 75%;
+    margin: 0 auto;
+    padding-bottom: 20px;	
+}
+.single_testimonial {
+	max-width: 80%;
+    padding: 80px 0px;
+    text-align: center;
+    margin: 0 auto;
+}
+.single_testimonial_img {
+    margin-top: 0px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#build {
+    padding: 120px 0px;
+}
+.build_contant {
+    max-width: 500px;
+    margin: 0 auto;
+    padding-bottom: 40px;
+}
+.single_pricing {
+    border: 1px solid rgba(221, 221, 221, 0.25);
+    padding: 30px;
+    max-width: 75%;
+    margin: 0px auto 20px;
+}
+.single_like {
+    padding: 60px 0px;
+    margin: 0 auto;
+    text-align: center;
+}
+.single_like h2 {
+    font-size: 1.5rem;
+}
+.single_like_btn {
+    padding: 0px 0px 80px;
+}
+button[type="submit"] {
+    right: 4%;
+    top: 39%;
+}
+.single_footer_bottom li {
+    margin-left: 90px;
+}
+.single_footer_bottom li a {
+	width:67px;
+	height:94px;
+}
+.single_footer_bottom li a i {
+	padding: 9px;
+}
+.single_team_area {
+    margin: 0 auto;
+    max-width: 65%;
+    padding-bottom: 20px;
+}
+
+.pull-right {
+    float: left !important;
+}
+.single_footer_bottom{
+	margin-bottom:0px;
+}
+
+
+}
+
+@media (min-width: 320px) and (max-width: 479px) {
+button[type="submit"] {
+    right: 4%;
+    top: 44%;
+}	
+
+}
+
+@media (min-width: 280px) and (max-width: 340px) { 
+	
+}
+
+
+@media only screen and (max-width: 992px) {
+	
+
+}
+
+@media only screen and (max-width: 480px) {
+	
+}
+
+
