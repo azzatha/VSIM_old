@@ -1,0 +1,24 @@
+@font-face {
+font-family: 'robotoregular';
+font-weight: normal;
+font-style: normal;
+src:url('roboto-regular.woff2') format('woff2');
+}
+@font-face {
+font-family: 'robotolight';
+font-weight: normal;
+font-style: normal;
+src:url('roboto-light.woff2') format('woff2');
+}
+@font-face {
+font-family: 'robotomedium';
+font-weight: normal;
+font-style: normal;
+src:url('roboto-medium.woff2') format('woff2');
+}
+@font-face {
+font-family: 'montserratregular';
+font-weight: normal;
+font-style: normal;
+src:url('montserrat-regular.woff2') format('woff2');
+}
