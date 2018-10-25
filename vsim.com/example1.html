@@ -1,0 +1,215 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>VSIM Tool</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <link rel="stylesheet" href="fonts/stylesheet.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <!--        <link rel="stylesheet" href="assets/css/bootstrap-theme.min.css">-->
+        <link rel="stylesheet" href="css/customicon.css">
+        <link rel="stylesheet" href="css/linearicons.css">
+        <link rel="stylesheet" href="css/animate.css">
+
+        <!--For Plugins external css-->
+        <link rel="stylesheet" href="css/plugins.css" />
+        <!--Theme custom css -->
+        <link rel="stylesheet" href="css/style.css">
+        <!--Theme Responsive css-->
+        <link rel="stylesheet" href="css/responsive.css" />
+
+        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.min.js"></script>
+        <script type="text/javascript" src="./dist/js/ideogram.min.js"></script>
+        <script src="http://code.jquery.com/jquery-1.8.3.js"></script>
+
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+		<div class='preloader'><div class='loaded'>&nbsp;</div></div>
+        <header id="header" class="navbar-fixed-top">
+            <div class="container">
+                <div class="main_menu wow fadeInDown" data-wow-duration="2s">	
+                    <nav class="navbar navbar-default">
+                        <div class="container-fluid">
+                            <!-- Brand and toggle get grouped for better mobile display -->
+                            <div class="navbar-header">
+                                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+                                <a class="navbar-brand our_logo" href="#">VSIM</a>
+                                <div class="call_us">
+                                    <i class="fa fa-phone"></i>
+                                   +966 533 422 088
+                                </div>	  
+                            </div>
+
+                            <!-- Collect the nav links, forms, and other content for toggling -->
+                            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li class="homeLink"><a href="index.html">HOme</a></li>
+                                    <li><a href="example.html">Example</a></li>
+                                    <li><a href="contact.html">Contact</a></li>
+                                    <!-- <li><a href="#" style="background:#6FB048;color:#fff;border-radius:2px;padding:5px 10px;margin-top:10px;">Get Stared</a></li> -->
+                                </ul>
+                            </div><!-- /.navbar-collapse -->
+                        </div><!-- /.container-fluid -->
+                    </nav>
+
+                </div>
+            </div>
+        </header>
+        <!--Home page style-->
+
+        <!-- Sections -->
+        <section id="bener" class="">
+            <div class="bener_overlay">
+                <div class="container">
+                    <div class="bener_content">
+                        <h1 > Welcome to VSIM</h1>
+                        <p>Visualization and Simulation of the Human Genome Diseases</p>
+                        <br />
+                    </div>
+                </div> <!-- /container -->
+            </div>
+        </section>
+
+        <!--Home page style-->
+
+        
+        <!-- example form -->
+		<section id="example">
+            <p id="title">Personal Interpretation<p>
+            <p id="subtitle">Visualization</p>
+            <p id ="result"> Result: </p>
+            <iframe id="respage" src="result1example.html" height="700" width="1340" framespacing=no></iframe> 
+
+            <p id="result"> Table Format: </p>
+            <iframe id="respage" height="700" width="1340" framespacing=no background="#fff" src="table1.html?file=task1.json"></iframe>
+                
+            <p> Input: VCF files </p>
+			<textarea id ="textarea" rows="17" cols="100">
+##fileformat=VCFv4.2
+##ALT=<ID=DEL,Description="Deletion">
+##FORMAT=<ID=DS,Number=1,Type=Float,Description="Genotype dosage from MaCH/Thunder">
+##FORMAT=<ID=GL,Number=.,Type=Float,Description="Genotype Likelihoods">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FORMAT=<ID=PL,Number=G,Type=Integer,Description="Normalized, Phred-scaled likelihoods for genotypes as defined in the VCF specification">
+##INFO=<ID=AA,Number=1,Type=String,Description="Ancestral Allele, ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/pilot_data/technical/reference/ancestral_alignments/README">
+##INFO=<ID=AC,Number=A,Type=Integer,Description="Allele count in genotypes, for each ALT allele, in the same order as listed">
+##INFO=<ID=AF,Number=A,Type=Float,Description="Allele Frequency, for each ALT allele, in the same order as listed">
+##INFO=<ID=AFR_AF,Number=1,Type=Float,Description="Allele Frequency for samples from AFR based on AC/AN">
+##INFO=<ID=AMR_AF,Number=1,Type=Float,Description="Allele Frequency for samples from AMR based on AC/AN">
+##INFO=<ID=AN,Number=1,Type=Integer,Description="Total Allele Count">
+##INFO=<ID=ASN_AF,Number=1,Type=Float,Description="Allele Frequency for samples from ASN based on AC/AN">
+##INFO=<ID=AVGPOST,Number=1,Type=Float,Description="Average posterior probability from MaCH/Thunder">
+##INFO=<ID=CIEND,Number=2,Type=Integer,Description="Confidence interval around END for imprecise variants">
+##INFO=<ID=CIPOS,Number=2,Type=Integer,Description="Confidence interval around POS for imprecise variants">
+##INFO=<ID=END,Number=1,Type=Integer,Description="End position of the variant described in this record">
+##INFO=<ID=ERATE,Number=1,Type=Float,Description="Per-marker Mutation rate from MaCH/Thunder">
+##INFO=<ID=EUR_AF,Number=1,Type=Float,Description="Allele Frequency for samples from EUR based on AC/AN">
+##INFO=<ID=HOMLEN,Number=.,Type=Integer,Description="Length of base pair identical micro-homology at event breakpoints">
+##INFO=<ID=HOMSEQ,Number=.,Type=String,Description="Sequence of base pair identical micro-homology at event breakpoints">
+##INFO=<ID=LDAF,Number=1,Type=Float,Description="MLE Allele Frequency Accounting for LD">
+##INFO=<ID=RSQ,Number=1,Type=Float,Description="Genotype imputation quality from MaCH/Thunder">
+##INFO=<ID=SNPSOURCE,Number=.,Type=String,Description="indicates if a snp was called when analysing the low coverage or exome alignment data">
+##INFO=<ID=SVLEN,Number=1,Type=Integer,Description="Difference in length between REF and ALT alleles">
+##INFO=<ID=SVTYPE,Number=1,Type=String,Description="Type of structural variant">
+##INFO=<ID=THETA,Number=1,Type=Float,Description="Per-marker Transition rate from MaCH/Thunder">
+##INFO=<ID=VT,Number=1,Type=String,Description="indicates what type of variant the line represents">
+##reference=GRCh37
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	HG00096
+1	30923	rs140337953	G	T	100	PASS	AA=T;AC=1584;AF=0.73;AFR_AF=0.48;AMR_AF=0.80;AN=2184;ASN_AF=0.89;AVGPOST=0.7335;ERATE=0.0183;EUR_AF=0.73;LDAF=0.6576;RSQ=0.5481;SNPSOURCE=LOWCOV;THETA=0.0162;VT=SNP	GT:DS:PL	1|1:1.750:49,5,0
+1	51479	rs116400033	T	A	100	PASS	AA=T;AC=235;AF=0.11;AFR_AF=0.03;AMR_AF=0.16;AN=2184;ASN_AF=0.0035;AVGPOST=0.9085;ERATE=0.0012;EUR_AF=0.22;LDAF=0.1404;RSQ=0.7414;SNPSOURCE=LOWCOV;THETA=0.0131;VT=SNP	GT:DS:PL	1|1:1.450:49,5,0
+1	52058	rs62637813	G	C	100	PASS	AA=C;AC=64;AF=0.03;AFR_AF=0.02;AMR_AF=0.04;AN=2184;ASN_AF=0.0017;AVGPOST=0.9264;ERATE=0.0057;EUR_AF=0.05;LDAF=0.0620;RSQ=0.4882;SNPSOURCE=LOWCOV;THETA=0.0069;VT=SNP	GT:DS:PL	0|1:0.850:19,0,37
+1	52238	rs150021059	T	G	100	PASS	AA=G;AC=1941;AF=0.89;AFR_AF=0.64;AMR_AF=0.93;AN=2184;ASN_AF=0.99;AVGPOST=0.8617;ERATE=0.0026;EUR_AF=0.95;LDAF=0.8423;RSQ=0.6256;SNPSOURCE=LOWCOV;THETA=0.0132;VT=SNP	GT:DS:PL	1|1:2.000:50,19,0
+1	54490	rs141149254	G	A	100	PASS	AA=G;AC=175;AF=0.08;AFR_AF=0.03;AMR_AF=0.12;AN=2184;ASN_AF=0.0035;AVGPOST=0.9646;ERATE=0.0004;EUR_AF=0.15;LDAF=0.0929;RSQ=0.8366;SNPSOURCE=LOWCOV;THETA=0.0074;VT=SNP	GT:DS:PL	1|0:1.000:50,0,42
+1	54676	rs2462492	C	T	100	PASS	AA=T;AC=267;AF=0.12;AFR_AF=0.09;AMR_AF=0.20;AN=2184;ASN_AF=0.02;AVGPOST=0.8998;ERATE=0.0037;EUR_AF=0.18;LDAF=0.1528;RSQ=0.6989;SNPSOURCE=LOWCOV;THETA=0.0110;VT=SNP	GT:DS:PL	0|1:1.000:26,0,17
+1	55164	rs3091274	C	A	100	PASS	AA=A;AC=1955;AF=0.90;AFR_AF=0.65;AMR_AF=0.94;AN=2184;ASN_AF=0.99;AVGPOST=0.8686;ERATE=0.0045;EUR_AF=0.96;LDAF=0.8489;RSQ=0.6373;SNPSOURCE=LOWCOV;THETA=0.0162;VT=SNP	GT:DS:PL	1|1:1.900:25,2,0
+1	57952	rs189727433	A	C	100	PASS	AA=C;AC=1902;AF=0.87;AFR_AF=0.64;AMR_AF=0.91;AN=2184;ASN_AF=0.98;AVGPOST=0.7578;ERATE=0.0085;EUR_AF=0.91;LDAF=0.7878;RSQ=0.4712;SNPSOURCE=LOWCOV;THETA=0.0076;VT=SNP	GT:DS:PL	1|1:1.950:26,3,0
+1	61442	rs74970982	A	G	100	PASS	AA=G;AC=2084;AF=0.95;AFR_AF=0.84;AMR_AF=0.97;AN=2184;ASN_AF=1.00;AVGPOST=0.9004;ERATE=0.0026;EUR_AF=0.99;LDAF=0.9152;RSQ=0.4867;SNPSOURCE=LOWCOV;THETA=0.0013;VT=SNP	GT:DS:PL	1|1:2.000:26,3,0
+1	63735	rs201888535	CCTA	C	455	PASS	AA=CCTA;AC=829;AF=0.38;AFR_AF=0.13;AMR_AF=0.33;AN=2184;ASN_AF=0.69;AVGPOST=0.7654;ERATE=0.0047;EUR_AF=0.34;LDAF=0.4128;RSQ=0.6424;THETA=0.0062;VT=INDEL	GT:DS:PL	1|1:1.750:150,9,0
+1	66162	rs62639105	A	T	100	PASS	AA=.;AC=544;AF=0.25;AFR_AF=0.23;AMR_AF=0.30;AN=2184;ASN_AF=0.07;AVGPOST=0.7777;ERATE=0.0166;EUR_AF=0.38;LDAF=0.3089;RSQ=0.5681;SNPSOURCE=LOWCOV;THETA=0.0026;VT=SNP	GT:DS:PL	0|1:0.950:18,0,36
+1	66507	rs12401368	T	A	100	PASS	AA=.;AC=170;AF=0.08;AFR_AF=0.05;AMR_AF=0.09;AN=2184;ASN_AF=0.07;AVGPOST=0.6536;ERATE=0.0197;EUR_AF=0.09;LDAF=0.2457;RSQ=0.2110;SNPSOURCE=LOWCOV;THETA=0.0122;VT=SNP	GT:DS:PL	0|1:1.000:23,0,17
+1	69511	rs75062661	A	G	100	PASS	AA=.;AC=1424;AF=0.65;AFR_AF=0.33;AMR_AF=0.65;AN=2184;ASN_AF=0.87;AVGPOST=0.7173;ERATE=0.0237;EUR_AF=0.70;LDAF=0.6051;RSQ=0.5669;SNPSOURCE=LOWCOV;THETA=0.0052;VT=SNP	GT:DS:PL	1|1:1.600:31,3,0
+1	73841	rs143773730	C	T	100	PASS	AA=.;AC=425;AF=0.19;AFR_AF=0.17;AMR_AF=0.22;AN=2184;ASN_AF=0.15;AVGPOST=0.8178;ERATE=0.0303;EUR_AF=0.23;LDAF=0.2588;RSQ=0.5832;SNPSOURCE=LOWCOV;THETA=0.0044;VT=SNP	GT:DS:PL	0|1:1.000:47,0,14
+1	79033	rs62641298	A	G	100	PASS	AA=.;AC=1961;AF=0.90;AFR_AF=0.65;AMR_AF=0.95;AN=2184;ASN_AF=0.98;AVGPOST=0.7371;ERATE=0.0054;EUR_AF=0.97;LDAF=0.7962;RSQ=0.3963;SNPSOURCE=LOWCOV;THETA=0.0022;VT=SNP	GT:DS:PL	1|1:1.900:0,0,0
+1	79050	rs62641299	G	T	100	PASS	AA=.;AC=1871;AF=0.86;AFR_AF=0.54;AMR_AF=0.93;AN=2184;ASN_AF=0.98;AVGPOST=0.6803;ERATE=0.0107;EUR_AF=0.94;LDAF=0.7318;RSQ=0.3928;SNPSOURCE=LOWCOV;THETA=0.0031;VT=SNP	GT:DS:PL	1|1:1.650:0,0,0
+1	83084	rs181193408	T	A	100	PASS	AA=.;AC=1914;AF=0.88;AFR_AF=0.58;AMR_AF=0.92;AN=2184;ASN_AF=0.99;AVGPOST=0.8261;ERATE=0.0061;EUR_AF=0.96;LDAF=0.8278;RSQ=0.5750;SNPSOURCE=LOWCOV;THETA=0.0064;VT=SNP	GT:DS:PL	1|1:1.850:29,3,0
+1	84002	rs28850140	G	A	100	PASS	AA=.;AC=236;AF=0.11;AFR_AF=0.07;AMR_AF=0.15;AN=2184;ASN_AF=0.12;AVGPOST=0.8144;ERATE=0.0211;EUR_AF=0.11;LDAF=0.1921;RSQ=0.4810;SNPSOURCE=LOWCOV;THETA=0.0050;VT=SNP	GT:DS:PL	0|1:1.000:50,0,31
+1	84005	rs202079949	AG	A	78	PASS	AA=.;AC=52;AF=0.02;AFR_AF=0.02;AMR_AF=0.03;AN=2184;ASN_AF=0.01;AVGPOST=0.9360;ERATE=0.0049;EUR_AF=0.04;LDAF=0.0514;RSQ=0.4690;THETA=0.0005;VT=INDEL	GT:DS:PL	1|0:1.000:68,0,26
+1	89946	rs138808727	A	T	100	PASS	AA=.;AC=236;AF=0.11;AFR_AF=0.02;AMR_AF=0.16;AN=2184;ASN_AF=0.0035;AVGPOST=0.9001;ERATE=0.0009;EUR_AF=0.22;LDAF=0.1417;RSQ=0.7414;SNPSOURCE=LOWCOV;THETA=0.0100;VT=SNP	GT:DS:PL	1|1:1.950:50,9,0
+1	91536	rs77418980	G	T	100	PASS	AA=.;AC=695;AF=0.32;AFR_AF=0.04;AMR_AF=0.30;AN=2184;ASN_AF=0.34;AVGPOST=0.7792;ERATE=0.0025;EUR_AF=0.50;LDAF=0.3255;RSQ=0.6634;SNPSOURCE=LOWCOV;THETA=0.0018;VT=SNP	GT:DS:PL	1|1:1.400:0,0,0
+1	91581	rs151118460	G	A	100	PASS	AA=.;AC=716;AF=0.33;AFR_AF=0.04;AMR_AF=0.30;AN=2184;ASN_AF=0.37;AVGPOST=0.7763;ERATE=0.0035;EUR_AF=0.50;LDAF=0.3353;RSQ=0.6618;SNPSOURCE=LOWCOV;THETA=0.0078;VT=SNP	GT:DS:PL	1|1:1.350:0,0,0
+1	92858	rs147061536	G	T	100	PASS	AA=.;AC=248;AF=0.11;AFR_AF=0.05;AMR_AF=0.15;AN=2184;ASN_AF=0.01;AVGPOST=0.9072;ERATE=0.0046;EUR_AF=0.22;LDAF=0.1433;RSQ=0.7567;SNPSOURCE=LOWCOV;THETA=0.0212;VT=SNP	GT:DS:PL	1|1:1.750:28,3,0
+            </textarea>
+        <p id="vcf">Full VCF file you can find it here: <a href="https://drive.google.com/open?id=1MT8T9UnIPs8vmsV9gGXnWHuOUFm3wndH" >ExampleFile.vcf</a></p>
+    </section>
+        <!-- <p id ="result"> Result: </p>
+        <iframe id="respage" src="res1example.html" height="700" width="1389" framespacing=no></iframe> -->
+
+        <script src="js/vendor/jquery-1.11.2.min.js"></script>
+        <script src="js/vendor/bootstrap.min.js"></script>
+
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+		<script src="http://maps.google.com/maps/api/js"></script>
+        <script src="js/gmaps.min.js"></script>
+           
+    </body>
+
+    <style type='text/css'>
+       #title{
+          font-size: 20px;
+          color: rgb(16, 107, 129);
+          font-weight:bold;
+       }
+       #subtitle{
+        font-weight:bold;
+       }
+       #example{
+           margin-left:50px;
+           margin-top:30px;
+       }
+       #textarea{
+        margin-left:80px;
+        background: rgb(219, 249, 250);
+       }
+       #result{
+        font-weight:bold;
+        margin-top:10px;
+        margin-bottom: 25px
+       }
+       #vcf{
+        margin-left:80px;
+        margin-bottom: 30px;
+       }
+       #respage{
+        margin-bottom: 40px;
+        margin-left: 0px;
+       }       
+       #table_id{
+        margin-top: 50px;
+        font-size: 17px;
+       }
+       #t1 {
+        text-align: center;     
+       }
+      </style>
+
+</html>
+

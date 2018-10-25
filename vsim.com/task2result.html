@@ -1,0 +1,623 @@
+<!doctype html>
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="">
+<!--<![endif]-->
+<html class="no-js" lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+    <title>VSIM Tool</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <link rel="stylesheet" href="fonts/stylesheet.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/customicon.css">
+    <link rel="stylesheet" href="css/linearicons.css">
+    <link rel="stylesheet" href="css/animate.css">
+
+    <!--For Plugins external css-->
+    <link rel="stylesheet" href="css/plugins.css" />
+    <!--Theme custom css -->
+    <link rel="stylesheet" href="css/style.css">
+    <!--Theme Responsive css-->
+    <link rel="stylesheet" href="css/responsive.css" />
+
+    <script type="text/javascript" src="./js/ideogram.min.js"></script>
+    <style>
+        ul {
+            float: center;
+            padding-bottom: 20px
+        }
+        
+        li {
+            list-style: none;
+        }
+        
+        #ideogram-container {
+            float: center;
+            padding-left: 10px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+<body>
+
+	 <header id="header" class="navbar-fixed-top">
+	        <div class="container">
+	            <div class="main_menu wow fadeInDown" data-wow-duration="2s">
+	                <nav class="navbar navbar-default">
+	                    <div class="container-fluid">
+	                        <!-- Brand and toggle get grouped for better mobile display -->
+	                        <div class="navbar-header">
+	                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"
+	                                aria-expanded="false">
+	                                <span class="sr-only">Toggle navigation</span>
+	                                <span class="icon-bar"></span>
+	                                <span class="icon-bar"></span>
+	                                <span class="icon-bar"></span>
+	                            </button>
+	                            <a class="navbar-brand our_logo" href="#">VSIM</a>
+	                            <div class="call_us">
+	                                <i class="fa fa-phone"></i>
+	                                +966 533 422 088
+	                            </div>
+	                        </div>
+	
+	                        <!-- Collect the nav links, forms, and other content for toggling -->
+	                        <div class="csollapse navbar-collapse" id="bs-example-navbar-collapse-1">
+	
+	                            <ul class="nav navbar-nav navbar-right">
+	                                <li class="homeLink"><a href="index.html">HOme</a></li>
+	                                <li><a href="example.html">Example</a></li>
+	                                <li><a href="contact.html">Contact</a></li>
+	                                <!-- <li><a href="#" style="background:#6FB048;color:#fff;border-radius:2px;padding:5px 10px;margin-top:10px;">Get Stared</a></li> -->
+	                            </ul>
+	                        </div><!-- /.navbar-collapse -->
+	                    </div><!-- /.container-fluid -->
+	                </nav>
+	
+	            </div>
+	        </div>
+	    </header>
+
+	<section id="bener" class="">
+	        <div class="bener_overlay">
+	            <div class="container">
+	                <div class="bener_content">
+	                    <h1> Welcome to VSIM</h1>
+	                    <p>Visualization and Simulation of the Human Genome Diseases</p>
+	                    <br />
+	                </div>
+	            </div> <!-- /container -->
+	        </div>
+	    </section>
+
+    <!--Home page style-->
+    <section id="our_features_task1">
+        <div class="container">
+            <div class="features_top_task1 text-center">
+                <h2 class="title_border">Premarital Testing</h2>
+                <div class="separator"></div>
+                <h3 id="newtopictask1" align="center">Visualize the Expected Diseases associated with the Simulated
+                    Children</h3>
+                </p>
+            </div>
+        </div>
+    </section>
+
+	<div id="appers">
+    <!-- Add for graphics  -->
+    <div style="text-align: center;" class='my-legend'>
+        <!-- <div class='legend-title'>Annotation Explination:</div> -->
+        <div class='legend-scale'>
+            <ul id="tracks-to-display" class='legend-labels'>
+                <li class='legend-title' id="li_t1">Database filter:</li>
+                <li id="li_t1">
+                    <label for="filter_1">
+                        <input type="checkbox" id="filter_1" checked /><span style='background:#FF0000'></span>M-CAP
+                        Prediction Score</li>
+                <li id="li_t1">
+                    <label for="filter_2">
+                        <input type="checkbox" id="filter_2" checked /><span style='background:#999'></span>PharmGKB
+                        Database</li>
+                <li id="li_t1">
+                    <label for="filter_3">
+                        <input type="checkbox" id="filter_3" checked /><span style='background:rgb(136, 129, 228) '></span>ClinVar
+                        Database</li>
+                <li id="li_t1">
+                    <label for="filter_4">
+                        <input type="checkbox" id="filter_4" checked /><span style='background:#00BFFF'></span>GWAS
+                        Database</li>
+                <li id="li_t1">
+                    <label for="filter_5">
+                        <input type="checkbox" id="filter_5" checked /><span style='background:#FF8C00'></span>DIDA
+                        Database</li>
+            </ul>
+        </div>
+    </div>
+
+    <p id="slid">Likelihood Ranges:</p>
+    <div class="slider">
+        <form id="f1">
+            <input name="sd1" type="range" min="0" max="100" step="1" value="100">
+            <output id="s1" for="sd1" onforminput="value = sd1.valueAsNumber;"> </output>
+        </form>
+
+        <form id="f2">
+            <input name="sd2" type="range" min="0" max="100" step="1" value="100">
+            <output id="s2" for="sd2" onforminput="value = sd2.valueAsNumber;"> </output>
+        </form>
+
+        <form id="f3">
+            <input name="sd3" type="range" min="0" max="100" step="1" value="100">
+            <output id="s3" for="sd3" onforminput="value = sd3.valueAsNumber;"> </output>
+        </form>
+
+        <form id="f4">
+            <input name="sd4" type="range" min="0" max="100" step="1" value="100">
+            <output id="s4" for="sd4" onforminput="value = sd4.valueAsNumber;"> </output>
+        </form>
+
+        <form id="f5">
+            <input name="sd5" type="range" min="0" max="100" step="1" value="100">
+            <output id="s5" for="sd5" onforminput="value = sd5.valueAsNumber;"> </output>
+        </form>
+    </div>
+    
+    <div id="ideogram-container"></div>
+
+	</div>
+
+
+    <script>   
+   
+    </script>
+                
+	<div id="table_frame">	
+	<iframe id="respage" height="500" width="1340" framespacing=no background="#fff" src=""></iframe>
+
+	<script>
+	function getUrlVars() {
+	                    var vars = [],
+	                         hash;
+	                     var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+	                     for (var i = 0; i < hashes.length; i++) {
+	                         hash = hashes[i].split('=');
+	                         vars.push(hash[0]);
+	                         vars[hash[0]] = hash[1];
+	                     }
+	                     return vars;
+	                    }
+	                    function UrlExists(url){
+	                                 var http = new XMLHttpRequest();
+	                                 http.open('HEAD', url, false);
+	                                 http.send();
+	                                 return http.status!=404;
+	                                }
+	                                
+		var filename= getUrlVars().file;
+		//alert(filename);
+	    document.getElementById("respage").src="table2.html?file="+filename;
+	</script>
+	
+	</div>
+	
+	
+    <p id="error"></p>
+    <script type="text/javascript">
+        function modifyOffset() {
+            var el, newPoint, newPlace, offset, siblings, k;
+            width = this.offsetWidth;
+            newPoint = (this.value - this.getAttribute("min")) / (this.getAttribute("max") - this.getAttribute("min"));
+            offset = -1;
+            if (newPoint < 0) { newPlace = 0; }
+            else if (newPoint > 1) { newPlace = width; }
+            else { newPlace = width * newPoint + offset; offset -= newPoint; }
+            siblings = this.parentNode.childNodes;
+            for (var i = 0; i < siblings.length; i++) {
+                sibling = siblings[i];
+                if (sibling.id == this.id) { k = true; }
+                if ((k == true) && (sibling.nodeName == "OUTPUT")) {
+                    outputTag = sibling;
+                }
+            }
+            outputTag.style.left = newPlace + "px";
+            outputTag.style.marginLeft = offset + "%";
+            outputTag.innerHTML = this.value;
+        }
+
+
+        function modifyInputs() {
+            var inputs = document.getElementsByTagName("input");
+            for (var i = 0; i < inputs.length; i++) {
+                if (inputs[i].getAttribute("type") == "range") {
+                    inputs[i].onchange = modifyOffset;
+                    if ("fireEvent" in inputs[i]) {
+                        inputs[i].fireEvent("onchange");
+                    } else {
+                        var evt = document.createEvent("HTMLEvents");
+                        evt.initEvent("change", false, true);
+                        inputs[i].dispatchEvent(evt);
+                    }
+                }
+            }
+        }
+
+        modifyInputs();
+
+        var d3 = Ideogram.d3;
+        var ideogram, inputs, Likelihood;
+
+        function getUrlVars() {
+                    var vars = [],
+                         hash;
+                     var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+                     for (var i = 0; i < hashes.length; i++) {
+                         hash = hashes[i].split('=');
+                         vars.push(hash[0]);
+                         vars[hash[0]] = hash[1];
+                     }
+                     return vars;
+                    }
+                    function UrlExists(url){
+                                 var http = new XMLHttpRequest();
+                                 http.open('HEAD', url, false);
+                                 http.send();
+                                 return http.status!=404;
+                                }
+
+        var filename= getUrlVars().file;
+        
+        var selectedTracks;
+        var values;
+
+		if (UrlExists('./VSIM/VisFiles/'+filename)) {
+		document.getElementById('appers').style["display"] = "block";
+		
+        var config = {
+            organism: 'human',
+            container: '#ideogram-container',
+            orientation: 'vertical',
+            chrWidth: 8,
+            chrHeight: 400,
+            assembly: 'GRCh37',
+            //annotationsPath: 'https://raw.githubusercontent.com/azzatha/Visualization/6b28fa25d43c996005147ef1ba9d18df9271b5e7/task2up_slid.json',
+            annotationsPath: './VSIM/VisFiles/'+ filename,
+            annotationsNumTracks: 5,
+            annotationsDisplayedTracks: [1, 2, 3, 4, 5],
+        };
+
+        ideogram = new Ideogram(config);
+        inputs = document.querySelectorAll('input[type="checkbox"]:not([value=""])');
+        inputs.forEach(function (input) {
+            input.addEventListener('click', function () {
+                updateTracks();
+            });
+        });
+
+        Likelihood = document.querySelectorAll('input[type="range"]:not([value=""])');
+        Likelihood.forEach(function (likelihood) {
+            likelihood.addEventListener('change', function () {
+                updateLikelihood();
+            });
+        });
+
+	 document.getElementById("table_frame").style["display"]= "block";
+        
+
+}
+else{
+	 alert("Please wait, the analysis is not finished.");
+	 document.getElementById("error").innerHTML = "Please wait, the analysis is not finished.";
+}
+
+        function updateTracks() {
+            // Get selected tracks
+            updateSelectedTracks();
+            updateLikelihoodValues();
+            ideogram.updateDisplayedTracks2(selectedTracks, values);
+        }
+
+        function updateSelectedTracks() {
+            selectedTracks = [];
+            inputs.forEach(function (input) {
+                var trackIndex = parseInt(input.getAttribute('id').split('_')[1]);
+                // var Likelihood = document.querySelectorAll('input[type="range"]:not([value=""])');
+                if (input.checked) {
+                    selectedTracks.push(trackIndex);
+                }
+            });
+
+        }
+
+        function updateLikelihood(value) {
+            updateSelectedTracks();
+            updateLikelihoodValues();
+            ideogram.updateDisplayedTracks2(selectedTracks, values)
+
+        }
+
+        function updateLikelihoodValues() {
+            values = []
+            Likelihood.forEach(function (likelihood) {
+                values.push(likelihood.value)
+            });
+        }
+      </script>
+</body>
+
+<!-- STYLE Graphics -->
+<style type='text/css'>
+    .slider {
+        height: 38px;
+        width: 1270px;
+        overflow-x: auto;
+        overflow-y: hidden;
+        white-space: nowrap;
+        margin-left: 130px;
+    }
+
+    #slid {
+        width: 140px;
+        margin-left: 49px;
+        font-size: 13px;
+        font-weight: bold;
+        height: 0px;
+    }
+
+    .slider p {
+        display: inline-block;
+        text-align: left;
+        font-weight: bold;
+        font-size: 11px;
+        height: 0px;
+        float: left;
+        padding: 1px;
+        margin-bottom: 30px;
+
+    }
+
+    #s1 {
+        background-image: linear-gradient(#267265, #93d3d0);
+        width: 30px;
+        height: 20px;
+        color: white;
+        border-radius: 7px;
+        display: inline-block;
+        font: bold 11px;
+        padding: 2px;
+        text-align: center;
+        /* margin-left: 10px; */
+        /* position: absolute; */
+        margin-bottom: 30px;
+    }
+
+    #s2 {
+        background-image: linear-gradient(#267265, #93d3d0);
+        width: 30px;
+        height: 20px;
+        color: white;
+        border-radius: 7px;
+        display: inline-block;
+        font: bold 11px;
+        padding: 2px;
+        text-align: center;
+        /* margin-left: 10px; */
+        /* position: absolute; */
+        margin-bottom: 30px;
+
+
+    }
+
+    #s3 {
+        background-image: linear-gradient(#267265, #93d3d0);
+        width: 30px;
+        height: 20px;
+        color: white;
+        border-radius: 7px;
+        display: inline-block;
+        font: bold 11px;
+        padding: 2px;
+        text-align: center;
+        /* margin-left: 10px; */
+        /* position: absolute; */
+        margin-bottom: 30px;
+
+    }
+
+    #s4 {
+        background-image: linear-gradient(#267265, #93d3d0);
+        width: 30px;
+        height: 20px;
+        color: white;
+        border-radius: 7px;
+        display: inline-block;
+        font: bold 11px;
+        padding: 2px;
+        text-align: center;
+        /* margin-left: 10px; */
+        /* position: absolute; */
+        margin-bottom: 30px;
+
+    }
+
+    #s5 {
+        background-image: linear-gradient(#267265, #93d3d0);
+        width: 30px;
+        height: 20px;
+        color: white;
+        border-radius: 7px;
+        display: inline-block;
+        font: bold 11px;
+        padding: 2px;
+        text-align: center;
+        /* margin-left: 10px; */
+        /* position: absolute; */
+        margin-bottom: 30px;
+
+    }
+
+    #f1 {
+        position: relative;
+        margin-left: 100px;
+        display: inline-block;
+        width: 150px;
+        margin-bottom: 30px;
+
+    }
+
+    #f2 {
+        position: absolute;
+        margin-left: 100px;
+        width: 140px;
+        display: inline-block;
+        margin-bottom: 30px;
+
+    }
+
+    #f3 {
+        position: absolute;
+        margin-left: 340px;
+        width: 140px;
+        display: inline-block;
+        margin-bottom: 30px;
+
+    }
+
+    #f4 {
+        position: absolute;
+        margin-left: 540px;
+        width: 140px;
+        display: inline-block;
+        margin-bottom: 30px;
+
+    }
+
+    #f5 {
+        position: absolute;
+        margin-left: 740px;
+        width: 140px;
+        display: inline-block;
+        margin-bottom: 30px;
+
+    }
+
+    .my-legend {
+        width: 1300px;
+        margin-top: 0px;
+        margin-bottom: 40px;
+        margin-left: 35px;
+    }
+
+    .my-legend .legend-title {
+        text-align: center;
+        font-weight: bold;
+        font-size: 130%;
+    }
+
+    .my-legend .legend-scale ul {
+        margin: 0;
+        padding: 0;
+        float: left;
+        list-style: none;
+        overflow: hidden;
+        text-align: center;
+    }
+
+    .my-legend .legend-scale ul li {
+        font-size: 90%;
+        list-style: none;
+        margin-left: 10;
+        line-height: 18px;
+        margin-bottom: 1px;
+        text-align: left;
+        overflow: hidden;
+        /* margin-right: auto;
+      margin-left: auto; */
+    }
+
+    #li_t1 {
+        float: left;
+        padding: 13px;
+    }
+
+    .my-legend ul.legend-labels li span {
+        display: block;
+        float: left;
+        height: 16px;
+        width: 30px;
+        margin-right: 30px;
+        border: 1px solid #999;
+    }
+
+    .my-legend .legend-source {
+        font-size: 70%;
+        margin: center;
+        color: #999;
+        clear: both;
+        margin-bottom: 0%;
+    }
+
+    .my-legend a {
+        color: #777;
+    }
+
+    #appers{
+    	display: none;
+    
+    }
+
+    #error{
+    	font-size: 20px;
+    	margin-left: 40px;
+    	margin-top: 60px;
+    	
+    	
+    }
+
+    #filter_1,
+    #filter_2,
+    #filter_3,
+    #filter_4,
+    #filter_5 {
+        margin-right: 3px;
+    }
+    #table_frame{
+        display: none;
+    }
+ 	#result {
+ 	    font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 25px
+ 	}
+ 	
+    #respage {
+        margin-bottom: 40px;
+        margin-left: 40px;
+        /* width: 95%; */
+    }
+
+    #table_id{
+        margin-top: 50px;
+        font-size: 17px;
+    }
+    #t1 {
+      text-align: center;     
+    }
+ 	   
+</style>
+
+
+</html>
+  

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">		
+	</head>
+	<body>
+		<table id="table_id" class="display" border="3" align="center" width="800" border="3">
+			<thead>
+				<tr>
+					<th id="t1" bgcolor="D3F3F1" width="90" align="center" >Chr</th>
+			 		<th id="t1" bgcolor="D3F3F1" width="120" align="center" >Position</th>		
+					<th bgcolor="D3F3F1" width="400" align="center" >Annotation</th>
+					<th id="t1" bgcolor="D3F3F1" width="140" align="center">Liklehood</th>
+				</tr>
+			</thead>
+			<tbody>
+				
+			</tbody>
+		</table>
+
+	
+		
+		<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js"></script>
+		<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+		<script id="myscript" type="text/javascript" charset="utf8">
+			var a = window.location.toString();
+				name = a.substring(a.indexOf("=")+1);
+				//alert(name)
+	$('#table_id').dataTable( {
+  	"ajax": {
+    	    url: './VSIM/VisFiles/'+name,
+        	"cache": true,
+        	"dataSrc": function ( json ) {
+            	var return_data=[];
+           		$.each(json.annots, function() {
+                	//console.log(this);
+                	var chr=this.chr;
+                $.each(this.annots, function() {
+                    var name=this[0].split("<br />");
+                    console.log(name);
+                    return_data.push([chr, this[1] , name[0]+"</br>"+name[1]+"</br>"+name[3],name[2].split(":")[1]]);
+                    //return_data.push([chr, this[1]);
+                });               
+            });
+      return return_data;
+   	 }
+  	}
+	} );
+
+		</script>
+		</body>
+
+	<style>
+
+	#table_id{
+		margin-top: 50px;
+		font-size: 17px;
+	}
+	#t1 {
+	   text-align: center;     
+	}
+	</style>
+</html>

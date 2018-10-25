@@ -1,0 +1,425 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>VSIM Tool</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <link rel="stylesheet" href="fonts/stylesheet.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!--        <link rel="stylesheet" href="assets/css/bootstrap-theme.min.css">-->
+    <link rel="stylesheet" href="css/customicon.css">
+    <link rel="stylesheet" href="css/linearicons.css">
+    <link rel="stylesheet" href="css/animate.css">
+
+    <!--For Plugins external css-->
+    <link rel="stylesheet" href="css/plugins.css" />
+    <!--Theme custom css -->
+    <link rel="stylesheet" href="css/style.css">
+    <!--Theme Responsive css-->
+    <link rel="stylesheet" href="css/responsive.css" />
+
+    <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    <!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.min.js"></script> -->
+    <script type="text/javascript" src="./js/ideogram.min.js"></script>
+    <script src="http://code.jquery.com/jquery-1.8.3.js"></script>
+    <style>
+        /* html, body { height: 100%; font: 12px Arial; line-height: 19.6px; } */
+        ul { float: center; padding-bottom: 20px}
+        li { list-style: none; }
+        #ideogram-container { 
+            float: center;
+            padding-left: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+    <div class='preloader'>
+        <div class='loaded'>&nbsp;</div>
+    </div>
+    <header id="header" class="navbar-fixed-top">
+        <div class="container">
+            <div class="main_menu wow fadeInDown" data-wow-duration="2s">
+                <nav class="navbar navbar-default">
+                    <div class="container-fluid">
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"
+                                aria-expanded="false">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand our_logo" href="#">VSIM</a>
+                            <div class="call_us">
+                                <i class="fa fa-phone"></i>
+                                +966 533 422 088
+                            </div>
+                        </div>
+
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="csollapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+                            <ul class="nav navbar-nav navbar-right">
+                                <li class="homeLink"><a href="index.html">HOme</a></li>
+                                <li><a href="example.html">Example</a></li>
+                                <li><a href="contact.html">Contact</a></li>
+                                <!-- <li><a href="#" style="background:#6FB048;color:#fff;border-radius:2px;padding:5px 10px;margin-top:10px;">Get Stared</a></li> -->
+                            </ul>
+                        </div><!-- /.navbar-collapse -->
+                    </div><!-- /.container-fluid -->
+                </nav>
+
+            </div>
+        </div>
+    </header>
+    <!--Home page style-->
+
+    <!-- Sections -->
+    <section id="bener" class="">
+        <div class="bener_overlay">
+            <div class="container">
+                <div class="bener_content">
+                    <h1> Welcome to VSIM</h1>
+                    <p>Visualization and Simulation of the Human Genome Diseases</p>
+                    <br />
+                </div>
+            </div> <!-- /container -->
+        </div>
+    </section>
+
+
+    <section id="our_features_task1">
+        <div class="container">
+            <div class="features_top_task1 text-center">
+                <h2 class="title_border">Personal Interpretation</h2>
+                <div class="separator"></div>
+                <h3 id="newtopictask1" align="center">Visualization of the Individual's Genome Diseases</h3>
+                </p>
+            </div>
+        </div>
+    </section>
+
+	<div id="appers">
+    <!-- Add for graphics  -->
+    <div style="text-align: center;" class='my-legend'>
+        <!-- <div class='legend-title'>Annotation Explination:</div> -->
+        <div class='legend-scale'>
+            <ul id="tracks-to-display" class='legend-labels'>
+                <li class='legend-title' id="li_t1">Annotation Explination:</li>
+                <li id="li_t1"><label for="filter_1"><input type="checkbox" id="filter_1" checked /><span style='background:#FF0000;'></span>M-CAP
+                        Prediction Score</li>
+                <li id="li_t1"><label for="filter_2"><input type="checkbox" id="filter_2" checked /><span style='background:#FF8C00;'></span>PharmGKP
+                        Database</li>
+                <li id="li_t1"><label for="filter_3"><input type="checkbox" id="filter_3" checked /><span style='background:#999'></span>ClinVar
+                        Database</li>
+                <li id="li_t1"><label for="filter_4"><input type="checkbox" id="filter_4" checked /><span style='background:#00BFFF;'></span>GWAS
+                        Database</li>
+                <li id="li_t1"><label for="filter_5"><input type="checkbox" id="filter_5" checked /><span style='background:rgb(136, 129, 228);'></span>DIDA
+                        Database</li>
+
+            </ul>
+        </div>
+    </div>
+
+    <div id="ideogram-container"></div>
+
+    </div>
+	<div id="table_frame">  
+    <iframe id="respage" height="500" width="1340" framespacing=no background="#fff" src=""></iframe>
+
+        <script>
+        function getUrlVars() {
+             var vars = [],
+             hash;
+             var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+             for (var i = 0; i < hashes.length; i++) {
+                  hash = hashes[i].split('=');
+                  vars.push(hash[0]);
+                  vars[hash[0]] = hash[1];
+             }
+             return vars;
+             }
+             function UrlExists(url){
+                  var http = new XMLHttpRequest();
+                  http.open('HEAD', url, false);
+                  http.send();
+                  return http.status!=404;
+              }
+                                        
+              var filename= getUrlVars().file;
+              //alert(filename);
+            document.getElementById("respage").src="table1.html?file="+filename;
+        </script>
+        
+        </div>
+
+    
+    
+	<p id="error"></p>
+	<p id="noresult">
+	There is no annotations associated with your input file. Please make sure about the file format or contact with us by
+	<a href="mailto:vsim.tool@email.com">vsim.tool@email.com</a>
+
+	</p>
+    <!-- Add for graphics  -->
+    <script type="text/javascript">
+        var d3 = Ideogram.d3;
+        var ideogram, inputs;
+        var filename = getUrlVars().file;
+        // alert(filename)
+        function getUrlVars() {
+            var vars = [],
+                hash;
+            var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+            for (var i = 0; i < hashes.length; i++) {
+                hash = hashes[i].split('=');
+                vars.push(hash[0]);
+                vars[hash[0]] = hash[1];
+            }
+            return vars;
+        }
+        function UrlExists(url) {
+            var http = new XMLHttpRequest();
+            http.open('HEAD', url, false);
+            http.send();
+            return http.status != 404;
+        }
+        
+        function get_filesize(url, callback) {
+            var xhr = new XMLHttpRequest();
+            xhr.open("HEAD", url, true); // Notice "HEAD" instead of "GET",
+                                         //  to get only the header
+            xhr.onreadystatechange = function() {
+                if (this.readyState == this.DONE) {
+                    callback(parseInt(xhr.getResponseHeader("Content-Length")));
+                }
+            };
+            xhr.send();
+        }
+
+      
+
+        if (UrlExists('./VSIM/VisFiles/'+filename)) 
+        { 
+			//var oFile = 'http://10.254.145.133/task1result.html?file='+filename;  
+            //var oFile = './VSIM/VisFiles/'+filename;  
+			//alert(oFile);
+			//get_filesize(oFile, function(size) {
+			   // alert("The size of " + oFile +" is: " + size + " bytes.");
+			//});
+
+						
+        	//if (FileSize > 1862)
+        	//{
+        	document.getElementById('appers').style["display"] = "block";
+            var config = {
+                organism: 'human',
+                container: '#ideogram-container',
+                orientation: 'vertical',
+                chrWidth: 8,
+                chrHeight: 400,
+                assembly: 'GRCh37',
+                annotationsPath: './VSIM/VisFiles/'+ filename,
+                // annotationTracks: annotationTracks,
+                annotationsNumTracks: 5,
+                annotationsDisplayedTracks: [1, 2, 3, 4, 5]
+                // annotationHeight: annotHeight
+            };
+
+            ideogram = new Ideogram(config);
+            inputs = document.querySelectorAll('input');
+            inputs.forEach(function (input) {
+                input.addEventListener('click', function () {
+                    updateTracks();
+                });
+            });
+            
+            document.getElementById("table_frame").style["display"]= "block";
+              
+        	//}
+        	//else {
+        	   //document.getElementById("noresult").style["display"] = "block"; 
+        	// }
+        }
+        else {
+            alert("Wait! The process is not yet finish");
+            document.getElementById("error").innerHTML = "Please wait, the analysis is not finished.";
+            
+        }
+
+        function updateTracks() {
+            // Get selected tracks
+            var selectedTracks = [];
+            inputs.forEach(function (input) {
+                var trackIndex = parseInt(input.getAttribute('id').split('_')[1]);
+                if (input.checked) {
+                    selectedTracks.push(trackIndex);
+                }
+            });
+            ideogram.updateDisplayedTracks(selectedTracks);
+        }
+       
+
+    </script>
+
+   <!-- <p id="result"> Table Format: </p>
+   <iframe id="respage" src="table1.php" height="700" width="1340" framespacing=no background="#fff"></iframe> -->
+   
+
+    <!-- <h3 align="center">Visualization of the Individual Genome Diseases</h3>  -->
+    <!-- <script type="text/javascript"></script> -->
+    <script src="js/vendor/jquery-1.11.2.min.js"></script>
+    <script src="js/vendor/bootstrap.min.js"></script>
+    <script src="js/jquery.easing.1.3.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
+
+</body>
+
+<!-- <div style="text-align: center;" class='my-legend' >
+  <div class='legend-title'>Annotation Explination:</div> 
+  <div class='legend-scale'>
+    <ul class='legend-labels'>
+      <li class='legend-title' id="li_t1">Annotation Explination:</li>
+      <li id="li_t1"><span style='background:#FF0000;'></span>M-CAP Prediction Score</li>
+      <li id="li_t1"><span style='background:#40E0D0;'></span>PharmGKP Database</li>
+      <li id="li_t1"><span style='background:#00FF7F;'></span>ClinVar Database</li>
+      <li id="li_t1"><span style='background:#00BFFF;'></span>GWAS Database</li>
+      <li id="li_t1"><span style='background:#FF8C00;'></span>DIDA Database</li>
+    </ul>
+  </div>
+  </div> -->
+
+
+<!-- STYLE Graphics -->
+<style type='text/css'>
+    .my-legend {
+        width: 1250px;
+        margin-top: 0px;
+        margin-bottom: 40px;
+        margin-left: 35px;
+    }
+
+    .my-legend .legend-title {
+        text-align: center;
+        font-weight: bold;
+        font-size: 130%;
+    }
+
+    .my-legend .legend-scale ul {
+        margin: 0;
+        padding: 0;
+        float: left;
+        list-style: none;
+        overflow: hidden;
+        text-align: center;
+    }
+
+    .my-legend .legend-scale ul li {
+        font-size: 90%;
+        list-style: none;
+        margin-left: 5;
+        line-height: 18px;
+        margin-bottom: 1px;
+        text-align: left;
+        overflow: hidden;
+        /* margin-right: auto;
+      margin-left: auto; */
+    }
+
+    #li_t1 {
+        float: left;
+        padding: 13px;
+    }
+
+    .my-legend ul.legend-labels li span {
+        display: block;
+        float: left;
+        height: 16px;
+        width: 30px;
+        margin-right: 20px;
+        border: 1px solid #999;
+    }
+
+    .my-legend .legend-source {
+        font-size: 70%;
+        margin: center;
+        color: #999;
+        clear: both;
+        margin-bottom: 0%;
+    }
+
+    .my-legend a {
+        color: #777;
+    }
+
+    #appers{
+    	display: none;
+    }
+
+    #filter_1,
+    #filter_2,
+    #filter_3,
+    #filter_4,
+    #filter_5 {
+        margin-right: 3px;
+    }
+
+    #error{
+      font-size: 20px;
+      margin-left: 40px;
+      margin-top: 60px;
+            
+            
+    }
+    #noresult{
+     font-size: 20px;
+     margin-left: 40px;
+     margin-top: 60px;
+     display: none;
+    	            
+    }
+
+   #table_frame{
+        display: none;
+    }
+        #result {
+            font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 25px
+        }
+        
+    #respage {
+        margin-bottom: 40px;
+        margin-left: 40px;
+        /* width: 95%; */
+    }
+
+    #table_id{
+        margin-top: 50px;
+        font-size: 17px;
+    }
+    #t1 {
+      text-align: center;     
+    }
+    
+</style>
+
+</html>
