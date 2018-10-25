@@ -2,7 +2,7 @@
 
 Visualization and Simulation of Genomes for Premarital Testing
 
-List of tools used:
+# List of tools used:
 
 - VCFtools http://vcftools.sourceforge.net
 - Bedtools https://bedtools.readthedocs.io/en/latest/
