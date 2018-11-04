@@ -1,0 +1,4 @@
+[[annotation]]
+file = "AllDataBases/CV_DB_Anno.vcf.gz"
+fields = ["CLNSIG", "CLNDN", "CLNDISDBINCL", "CLNDISDB"]
+ops=["first","first", "first", "first"]
