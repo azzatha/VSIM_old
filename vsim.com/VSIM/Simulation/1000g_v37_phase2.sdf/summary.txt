@@ -1,0 +1,16 @@
+
+Input Data
+Files              : hs37d5.fasta
+Format             : FASTA
+Type               : DNA
+Number of sequences: 86
+Total residues     : 3137454505
+Minimum length     : 4262
+Maximum length     : 249250621
+
+Output Data
+SDF-ID             : f1765b39-de93-481a-925d-282fe62ec8a6
+Number of sequences: 86
+Total residues     : 3137454505
+Minimum length     : 4262
+Maximum length     : 249250621

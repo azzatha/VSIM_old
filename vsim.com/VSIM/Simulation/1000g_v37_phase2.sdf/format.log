@@ -1,0 +1,93 @@
+2012-08-08 16:29:30 serial = 007
+2012-08-08 16:29:30 email = slim-talkback@realtimegenomics.com
+2012-08-08 16:29:30 RTG version = vPOST-2.6 build <not found> (<not found>)
+2012-08-08 16:29:30 file.encoding = UTF-8
+2012-08-08 16:29:30 file.encoding.pkg = sun.io
+2012-08-08 16:29:30 file.separator = /
+2012-08-08 16:29:30 host.name = noir
+2012-08-08 16:29:30 java.awt.graphicsenv = sun.awt.X11GraphicsEnvironment
+2012-08-08 16:29:30 java.awt.printerjob = sun.print.PSPrinterJob
+2012-08-08 16:29:30 java.class.path = :/home/len/reeltwo_sandboxes/rtg-git/bin:/home/len/reeltwo_sandboxes/rtg-git/src:/home/len/reeltwo_sandboxes/rtg-git/internal:/home/len/reeltwo_sandboxes/rtg-git/test:/home/len/reeltwo_sandboxes/rtg-git/lib/spelling.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/RPlot.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/findbugs/lib/asm-tree-3.3.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/findbugs/lib/asm-3.3.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/findbugs/lib/yjp-controller-api-redist.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/findbugs/lib/asm-attrs-3.3.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/findbugs/lib/jsr305.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/findbugs/lib/asm-analysis-3.3.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/findbugs/lib/jFormatString.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/findbugs/lib/jdepend-2.9.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/findbugs/lib/commons-lang-2.4.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/findbugs/lib/findbugs-ant.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/findbugs/lib/asm-commons-3.3.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/findbugs/lib/asm-xml-3.3.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/findbugs/lib/findbugs.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/findbugs/lib/bcel.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/findbugs/lib/annotations.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/findbugs/lib/jaxen-1.1.1.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/findbugs/lib/jcip-annotations.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/findbugs/lib/dom4j-1.6.1.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/findbugs/lib/ant.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/findbugs/lib/asm-util-3.3.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/json.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/Jama-1.0.2.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/jfreechart-1.0.5.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/jcommon-1.0.9.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/ml-ant-http-1.1.3.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/gzipfix.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/jumble-annotations.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/handlechecker.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/ant-dasho.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/sam-1.62.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/sam-1.62-src.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/checkstyle-5.5-all.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/servlet.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/junit.jar:/home/len/reeltwo_sandboxes/rtg-git/lib/mysql-connector-java-5.1.6-bin.jar:
+2012-08-08 16:29:30 java.class.version = 50.0
+2012-08-08 16:29:30 java.endorsed.dirs = /home/java/jdk1.6.0_30/jre/lib/endorsed
+2012-08-08 16:29:30 java.ext.dirs = /home/java/jdk1.6.0_30/jre/lib/ext:/usr/java/packages/lib/ext
+2012-08-08 16:29:30 java.home = /home/java/jdk1.6.0_30/jre
+2012-08-08 16:29:30 java.io.tmpdir = /tmp
+2012-08-08 16:29:30 java.library.path = /home/java/jdk1.6.0_30/jre/lib/amd64/server:/home/java/jdk1.6.0_30/jre/lib/amd64:/home/java/jdk1.6.0_30/jre/../lib/amd64:/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+2012-08-08 16:29:30 java.runtime.name = Java(TM) SE Runtime Environment
+2012-08-08 16:29:30 java.runtime.version = 1.6.0_30-b12
+2012-08-08 16:29:30 java.specification.name = Java Platform API Specification
+2012-08-08 16:29:30 java.specification.vendor = Sun Microsystems Inc.
+2012-08-08 16:29:30 java.specification.version = 1.6
+2012-08-08 16:29:30 java.vendor = Sun Microsystems Inc.
+2012-08-08 16:29:30 java.vendor.url = http://java.sun.com/
+2012-08-08 16:29:30 java.vendor.url.bug = http://java.sun.com/cgi-bin/bugreport.cgi
+2012-08-08 16:29:30 java.version = 1.6.0_30
+2012-08-08 16:29:30 java.vm.info = mixed mode
+2012-08-08 16:29:30 java.vm.name = Java HotSpot(TM) 64-Bit Server VM
+2012-08-08 16:29:30 java.vm.specification.name = Java Virtual Machine Specification
+2012-08-08 16:29:30 java.vm.specification.vendor = Sun Microsystems Inc.
+2012-08-08 16:29:30 java.vm.specification.version = 1.0
+2012-08-08 16:29:30 java.vm.vendor = Sun Microsystems Inc.
+2012-08-08 16:29:30 java.vm.version = 20.5-b03
+2012-08-08 16:29:30 lang.version = 1.6.0_30
+2012-08-08 16:29:30 line.separator = 
+
+2012-08-08 16:29:30 os.arch = amd64
+2012-08-08 16:29:30 os.freememory = 649322496
+2012-08-08 16:29:30 os.name = Linux
+2012-08-08 16:29:30 os.totalmemory = 8283832320
+2012-08-08 16:29:30 os.version = 2.6.38-15-generic
+2012-08-08 16:29:30 path.separator = :
+2012-08-08 16:29:30 processor.arch = amd64
+2012-08-08 16:29:30 processor.count = 4
+2012-08-08 16:29:30 runtime.freememory = 116930368
+2012-08-08 16:29:30 runtime.maxmemory = 1841823744
+2012-08-08 16:29:30 runtime.totalMemory = 124125184
+2012-08-08 16:29:30 sun.arch.data.model = 64
+2012-08-08 16:29:30 sun.boot.class.path = /home/java/jdk1.6.0_30/jre/lib/resources.jar:/home/java/jdk1.6.0_30/jre/lib/rt.jar:/home/java/jdk1.6.0_30/jre/lib/sunrsasign.jar:/home/java/jdk1.6.0_30/jre/lib/jsse.jar:/home/java/jdk1.6.0_30/jre/lib/jce.jar:/home/java/jdk1.6.0_30/jre/lib/charsets.jar:/home/java/jdk1.6.0_30/jre/lib/modules/jdk.boot.jar:/home/java/jdk1.6.0_30/jre/classes
+2012-08-08 16:29:30 sun.boot.library.path = /home/java/jdk1.6.0_30/jre/lib/amd64
+2012-08-08 16:29:30 sun.cpu.endian = little
+2012-08-08 16:29:30 sun.cpu.isalist = 
+2012-08-08 16:29:30 sun.desktop = gnome
+2012-08-08 16:29:30 sun.io.unicode.encoding = UnicodeLittle
+2012-08-08 16:29:30 sun.java.command = com.rtg.Slim format -o sdf hs37d5.fasta
+2012-08-08 16:29:30 sun.java.launcher = SUN_STANDARD
+2012-08-08 16:29:30 sun.jnu.encoding = UTF-8
+2012-08-08 16:29:30 sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+2012-08-08 16:29:30 sun.os.patch.level = unknown
+2012-08-08 16:29:30 user.country = NZ
+2012-08-08 16:29:30 user.dir = /rtgshare/data/human/ref/1000g_v37_phase2
+2012-08-08 16:29:30 user.home = /home/len
+2012-08-08 16:29:30 user.language = en
+2012-08-08 16:29:30 user.name = len
+2012-08-08 16:29:30 user.timezone = Pacific/Auckland
+2012-08-08 16:29:30 vendor = Sun Microsystems Inc.
+2012-08-08 16:29:30 gzipfix.enabled = true
+2012-08-08 16:29:30 Command line arguments: rtg format -o sdf hs37d5.fasta
+2012-08-08 16:29:30 Run Id: 5c90574e-e8d8-49e3-aedb-309504201179
+2012-08-08 16:29:30 Formatting FASTA data
+2012-08-08 16:29:30 Processing "hs37d5.fasta"
+2012-08-08 16:29:36 		 FileUtils.outputStream /rtgshare/data/human/ref/1000g_v37_phase2/sdf/seqdata0 false false
+2012-08-08 16:29:36 		 FileUtils.outputStream /rtgshare/data/human/ref/1000g_v37_phase2/sdf/seqpointer0 false false
+2012-08-08 16:29:58 Unexpected symbol "M" in sequence "3 dna:chromosome chromosome:GRCh37:3:1:198022430:1" replaced with "N".
+2012-08-08 16:29:58 Unexpected symbol "R" in sequence "3 dna:chromosome chromosome:GRCh37:3:1:198022430:1" replaced with "N".
+2012-08-08 16:29:58 Unexpected symbol "R" in sequence "3 dna:chromosome chromosome:GRCh37:3:1:198022430:1" replaced with "N".
+2012-08-08 16:30:20 		 FileUtils.outputStream /rtgshare/data/human/ref/1000g_v37_phase2/sdf/seqdata1 false false
+2012-08-08 16:30:20 		 FileUtils.outputStream /rtgshare/data/human/ref/1000g_v37_phase2/sdf/seqpointer1 false false
+2012-08-08 16:31:04 		 FileUtils.outputStream /rtgshare/data/human/ref/1000g_v37_phase2/sdf/seqdata2 false false
+2012-08-08 16:31:04 		 FileUtils.outputStream /rtgshare/data/human/ref/1000g_v37_phase2/sdf/seqpointer2 false false
+2012-08-08 16:31:49 		 FileUtils.outputStream /rtgshare/data/human/ref/1000g_v37_phase2/sdf/seqdata3 false false
+2012-08-08 16:31:49 		 FileUtils.outputStream /rtgshare/data/human/ref/1000g_v37_phase2/sdf/seqpointer3 false false
+2012-08-08 16:31:54 Unexpected symbol "w" in sequence "hs37d5" replaced with "N".
+2012-08-08 16:31:54 Unexpected symbol "v" in sequence "hs37d5" replaced with "N".
+2012-08-08 16:31:54 Unexpected symbol "Y" in sequence "hs37d5" replaced with "N".
+2012-08-08 16:31:54 Unexpected symbol "R" in sequence "hs37d5" replaced with "N".
+2012-08-08 16:31:54 Unexpected symbol "R" in sequence "hs37d5" replaced with "N".
+2012-08-08 16:31:54 Unexpected symbol "y" in sequence "hs37d5" replaced with "N".
+2012-08-08 16:31:54 Unexpected symbol "r" in sequence "hs37d5" replaced with "N".
+2012-08-08 16:31:54 Subsequent warnings of this type will not be shown.
+2012-08-08 16:31:55 
+2012-08-08 16:31:55 There were 1679 unexpected symbols.
+2012-08-08 16:31:55 Writing SDF-Id: f1765b39-de93-481a-925d-282fe62ec8a6
+2012-08-08 16:31:55 Finished successfully in 145 s.
