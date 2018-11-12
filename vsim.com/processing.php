@@ -31,13 +31,13 @@
     <?php
     #phpinfo();
    # $target_dir = "./VSIM/";
-    chdir('./VSIM/');
+    chdir('/app/VSIM/');
     if($_FILES['fileToUpload']['name']== "") {
         	echo("Please select a file to upload");
         	echo($_FILES['fileToUpload']['name']);
         }
 
-    else {
+    else {
 
        # $target_file= $target_dir . basename($_FILES["fileToUpload"]["name"]);
        $fileName=  $_FILES["fileToUpload"]["name"];
