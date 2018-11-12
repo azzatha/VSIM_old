@@ -13,7 +13,7 @@ echo "start $1"
 #groovy ./1-ClinVar/loadModeInh.groovy | grep "^OMIM" > ./1-ClinVar/omim_mode.txt
 
 # Find the intersect with CV Database,and Run Python of the input file for CV
-bedtools2/bin/bedtools intersect -wb -f 1.00 -r -a ./AllDataBases/CV_DB.vcf -b $1 > ./1-ClinVar/clinvar_Data.vcf
+bedtools intersect -wb -f 1.00 -r -a ./AllDataBases/CV_DB.vcf -b $1 > ./1-ClinVar/clinvar_Data.vcf
 cut -f9,10,11,12,13,14,15,16,17,18 ./1-ClinVar/clinvar_Data.vcf > ./1-ClinVar/clinvar_Data2.vcf
 egrep -v "^#" ./AllDataBases/CV_DB.vcf > ./AllDataBases/CV_Pathogenic_.vcf
 cat ./AllDataBases/headerCV.txt ./AllDataBases/CV_Pathogenic_.vcf >  ./AllDataBases/CV_DB_Anno.vcf
