@@ -11,8 +11,18 @@
 # 1- ClinVar
 CV_file_name=$(curl ftp://ftp.ncbi.nlm.nih.gov/pub/clinvar/vcf_GRCh37/ | grep -o 'clinvar_[0-9]*\.vcf\.gz$' | sort -u)
 wget  -O ./AllDataBases/CLV.vcf.gz  ftp://ftp.ncbi.nlm.nih.gov/pub/clinvar/vcf_GRCh37/$CV_file_name
-zless ./AllDataBases/CLV.vcf.gz | grep 'CLNSIG=Pathogenic\|CLNSIG=Likely_pathogenic' > ./AllDataBases/CV_DB.vcf
-sed -i '1s/^/##fileformat=VCFv4.1\n/' ./AllDataBases/CV_DB.vcf
+zless ./AllDataBases/CLV.vcf.gz | grep 'CLNSIG=Pathogenic\|CLNSIG=Likely_pathogenic' > ./AllDataBases/CV_DB1.vcf
+#sed '1i ##fileformat=VCFv4.1 ' ./AllDataBases/CV_DB1.vcf > ./AllDataBases/CV_DB.vcf
+
+sed '1i\
+##fileformat=VCFv4.1
+' ./AllDataBases/CV_DB1.vcf >  ./AllDataBases/CV_DB.vcf
+
+#sed  '1 i\ 
+#fileformat=VCFv4.1\n' ./AllDataBases/CV_DB1.vcf > ./AllDataBases/CV_DB.vcf
+ 
+#sed 's/regexp/\\\n/g' ./AllDataBases/CV_DB1.vcf > ./AllDataBases/CV_DB.vcf
+#sed '1s/^/##fileformat=VCFv4.1/&\n/g' ./AllDataBases/CV_DB1.vcf > ./AllDataBases/CV_DB.vcf
 #ex -sc '1i|##fileformat=VCFv4.1' -cx ./AllDataBases/CV_DB.vcf
 
 ## Add Chr for the simulation

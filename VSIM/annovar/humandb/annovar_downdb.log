@@ -1,0 +1,11 @@
+ANNOVAR Version:
+	$Date: 2018-04-16 00:43:31 -0400 (Mon, 16 Apr 2018) $
+ANNOVAR Information:
+	For questions, comments, documentation, bug reports and program update, please visit http://www.openbioinformatics.org/annovar/
+ANNOVAR Command:
+	annotate_variation.pl -buildver hg19 -downdb hg19_mcap humandb/
+ANNOVAR Started:
+	Sun Nov 18 13:57:06 2018
+NOTICE: Web-based checking to see whether ANNOVAR new version is available ... Failed
+NOTICE: Downloading annotation database http://hgdownload.cse.ucsc.edu/goldenPath/hg19/database/hg19_mcap.txt.gz ... Failed
+WARNING: Some files cannot be downloaded, including http://hgdownload.cse.ucsc.edu/goldenPath/hg19/database/hg19_mcap.txt.gz
